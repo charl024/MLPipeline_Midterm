@@ -14,6 +14,9 @@ def standardize(train_data, test_data):
 
 # returns training data/labels, testing data/labels, flattens data and standardizes
 def get_fashion_mnist():
+    '''
+    Obtains Fashion-MNIST dataset.
+    '''
     train_images = idx2numpy.convert_from_file("./datasets/FashionMNIST/raw/train-images-idx3-ubyte")
     train_labels = idx2numpy.convert_from_file("./datasets/FashionMNIST/raw/train-labels-idx1-ubyte")
     test_images = idx2numpy.convert_from_file("./datasets/FashionMNIST/raw/t10k-images-idx3-ubyte")
@@ -28,6 +31,9 @@ def get_fashion_mnist():
 
 # returns training data/labels, testing data/labels, flattens data and standardizes
 def get_mnist():
+    '''
+    Obtains MNIST dataset.
+    '''
     train_images = idx2numpy.convert_from_file("./datasets/MNIST/raw/train-images-idx3-ubyte")
     train_labels = idx2numpy.convert_from_file("./datasets/MNIST/raw/train-labels-idx1-ubyte")
     test_images = idx2numpy.convert_from_file("./datasets/MNIST/raw/t10k-images-idx3-ubyte")
