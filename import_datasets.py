@@ -45,6 +45,3 @@ def get_mnist():
     train_standardized, test_standardized = standardize(train_flattened, test_flattened)
 
     return train_standardized, train_labels, test_standardized, test_labels
-
-# print(get_fashion_mnist())
-# print(get_mnist())
