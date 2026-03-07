@@ -41,7 +41,6 @@ class Pipeline:
         # Initialize unpreprocesed data
         self._load_uncompressed()
 
-        print()
         # Load in preprocessed data
         self._transform()
 
