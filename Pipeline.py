@@ -32,8 +32,11 @@ class Pipeline:
         # SVC
         self.SVC = SVC
         
-        # Test data
+        # Load in unpreprocessed data
         self._init(data_set=data_set)
+
+        # Load in preprocessed data
+        self._transform()
 
     def _init(self, data_set="mnist"):
         """
