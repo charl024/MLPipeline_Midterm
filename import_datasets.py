@@ -10,7 +10,7 @@ def get_fashion_mnist():
     train_flattened = train_images.reshape(train_images.shape[0], -1)
     test_flattened = test_images.reshape(test_images.shape[0], -1)
 
-    return train_images, train_labels, test_images, test_labels
+    return train_flattened, train_labels, test_flattened, test_labels
 
 def get_mnist():
     train_images = idx2numpy.convert_from_file("./datasets/MNIST/raw/train-images-idx3-ubyte")
@@ -21,7 +21,7 @@ def get_mnist():
     train_flattened = train_images.reshape(train_images.shape[0], -1)
     test_flattened = test_images.reshape(test_images.shape[0], -1)
 
-    return train_images, train_labels, test_images, test_labels
+    return train_flattened, train_labels, test_flattened, test_labels
 
-print(get_fashion_mnist())
-print(get_mnist())
+# print(get_fashion_mnist())
+# print(get_mnist())
