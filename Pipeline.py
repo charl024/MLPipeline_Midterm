@@ -15,11 +15,17 @@ class Pipeline:
                  num_components=50):
         """
         A Pipeline object
+        data_set       - "mnist" for mnist, fashion otw
         preprocessor   - "pca" for PCA, LDA otw
-        num_components - only relevant for PCA preprocessing
+        num_components - only relevant for PCA preprocessing (None for LDA)
         X_test         - the test data
         """
         
+        #Define dataset function
+        if data_set == "mnist":
+            self.data_set = import_datasets.get_mnist
+        else: 
+            self.data_set = import_datasets.get_fashion_mnist
 
         #Define the preprocessing strategy
         if preprocessor == "pca":
@@ -32,25 +38,18 @@ class Pipeline:
         # SVC
         self.SVC = SVC
         
-        # Load in unpreprocessed data
-        self._init(data_set=data_set)
+        # Initialize unpreprocesed data
+        self._load_uncompressed()
 
+        print()
         # Load in preprocessed data
         self._transform()
 
-    def _init(self, data_set="mnist"):
+    def _load_uncompressed(self):
         """
         Load the data
-
-        data_set- "mnist" for mnist, fahsion otw
         """
-        #Define function for reading in the datasets
-        if data_set == "mnist":
-            getter = import_datasets.get_mnist
-        else:
-            getter = import_datasets.get_fashion_mnist
-        
-        X_train, y_train, X_test, y_test = getter()
+        X_train, y_train, X_test, y_test = self.data_set()
 
         self.X_train = X_train
         self.y_train = y_train
@@ -80,7 +79,8 @@ class Pipeline:
         """
         Get the data, not preprocessed
         """
-        return self.X_train, self.y_train, self.X_test, self.y_test
+        
+        return self.X_train, self.y_train, self.X_test, self.y_test, self.red_X_train, self.red_X_test
     
     def fit(self, X=None, y=None):
         """
@@ -90,12 +90,9 @@ class Pipeline:
         X - Training data
         y - Training targets
         """
-        if ((X == None and y != None) or (X != None and y == None)):
-            print(f"Warning, unexpected input combination in Pipeline: \nX = {X}\ny = {y}")
-        if (X == None):
-            X = self.red_X_train
-        if (y == None):
-            y = self.y_train
+
+        X = self.red_X_train
+        y = self.y_train
         
         self.SVC.fit(X=X, y=y)
 
@@ -110,7 +107,6 @@ class Pipeline:
         X - Data to predict on
         """
 
-        if (X == None):
-            X = self.red_X_test
+        X = self.red_X_test
         
         return self.SVC.predict(X)
