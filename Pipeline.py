@@ -1,15 +1,16 @@
 """
 A pipeline class for testing various models
 """
-from pca_lda import get_samples_with_pca
+from dataset_reduction import load_dataset_from_file
 from sklearn.svm import SVC 
 import import_datasets
 import pca_lda
 
+MNST_STR = "mnist"
 
 class Pipeline:
     def __init__(self,
-                 data_set="mnist",
+                 data_set=MNST_STR,
                  preprocessor="pca", 
                  SVC=SVC(max_iter=10),
                  num_components=50):
@@ -22,7 +23,7 @@ class Pipeline:
         """
         
         #Define dataset function
-        if data_set == "mnist":
+        if data_set == MNST_STR:
             self.data_set = import_datasets.get_mnist
         else: 
             self.data_set = import_datasets.get_fashion_mnist
@@ -59,17 +60,34 @@ class Pipeline:
         """
         Perform preprocessing on X_train and X_test
         """
+
+        red_X_test = None
+        red_X_train = None
+        try:
+            if (self.data_set == MNST_STR):
+                filename = "mnist_reduced"
+            else:
+                filename = "fashionmnist_reduced"
+
+            red_X_train, _, red_X_test, _ = load_dataset_from_file(filename=filename, num_components=self.num_components)
+
+        except ValueError as e:
+            print(f"An exception occurred: {e}")
+            
         #TODO: file reading instead of function calls every time
-        if (self.num_components == None):
-            # LDA
-            red_X_train, red_X_test = self.preprocessor(self.X_train, 
-                                                        self.y_train, 
-                                                        self.X_test)
-        else:
-            # PCA
-            red_X_train, red_X_test = self.preprocessor(self.X_train, 
-                                                        self.X_test, 
-                                                        self.num_components)
+
+        if (red_X_test == None or red_X_test == None):
+            "failed to read in, doing manually"
+            if (self.num_components == None):
+                # LDA
+                red_X_train, red_X_test = self.preprocessor(self.X_train, 
+                                                            self.y_train, 
+                                                            self.X_test)
+            else:
+                # PCA
+                red_X_train, red_X_test = self.preprocessor(self.X_train, 
+                                                            self.X_test, 
+                                                            self.num_components)
         
         self.red_X_train = red_X_train
         self.red_X_test  = red_X_test
