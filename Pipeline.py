@@ -76,7 +76,7 @@ class Pipeline:
             
         #TODO: file reading instead of function calls every time
 
-        if (red_X_test == None or red_X_test == None):
+        if (red_X_train is None or red_X_test is None):
             "failed to read in, doing manually"
             if (self.num_components == None):
                 # LDA
