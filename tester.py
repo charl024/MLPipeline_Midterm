@@ -13,6 +13,8 @@ from sklearn.model_selection import validation_curve
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC 
 
+NUM_ITER = 75
+
 def test():
     train_data, train_labels, test_data, test_labels = get_mnist()
 
@@ -36,12 +38,10 @@ def calc_errors(pipeline):
 def linear_kernel_test():
     C_param_range = [0.0001, 0.001, 0.01, 0.1, 1]
 
-    NUM_ITER = 500
     print(f"Number of iterations: {NUM_ITER}\n")
 
 
     for C in C_param_range:
-        # for gamma in gamma_param_range:
         svc = SVC(kernel='linear', max_iter=NUM_ITER, C=C)
         pl = Pipeline(SVC=svc)
         total = pl.fit()
@@ -54,4 +54,26 @@ def linear_kernel_test():
         print(f"C = {C}")
         print(f"training accuracy = {train_accuracy}, test accuracy = {test_accuracy}, fit time = {total}\n")
 
-linear_kernel_test()
+def rbf_kernel_test():
+    C_param_range = [0.01, 0.1, 1]
+    gamma_param_range = [0.0001, 0.001, 0.01, 0.1, 1, 10]
+
+    print(f"Number of iterations: {NUM_ITER}\n")
+
+
+    for C in C_param_range:
+        for gamma in gamma_param_range:
+            svc = SVC(kernel='rbf', max_iter=NUM_ITER, C=C, gamma=gamma)
+            pl = Pipeline(SVC=svc)
+            total = pl.fit()
+
+            train_error, test_error = calc_errors(pl)
+
+            train_accuracy = (1.0 - train_error)
+            test_accuracy  = (1.0 - test_error)
+
+            print(f"C = {C}, gamma = {gamma}")
+            print(f"training accuracy = {train_accuracy}, test accuracy = {test_accuracy}, fit time = {total}\n")
+
+
+rbf_kernel_test()

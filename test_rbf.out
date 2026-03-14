@@ -1,0 +1,20 @@
+Number of iterations: 75
+
+C = 0.1, gamma = 0.0001
+training accuracy = 0.31748333333333334, test accuracy = 0.31279999999999997, fit time = 1.1220395409909543
+
+C = 0.1, gamma = 0.001
+training accuracy = 0.5453166666666667, test accuracy = 0.5399, fit time = 1.146309208997991
+
+C = 0.1, gamma = 0.01
+training accuracy = 0.4038333333333334, test accuracy = 0.3994, fit time = 1.1455486670020036
+
+C = 0.1, gamma = 0.1
+training accuracy = 0.43005000000000004, test accuracy = 0.406, fit time = 1.1681358750065556
+
+C = 0.1, gamma = 1
+training accuracy = 0.58395, test accuracy = 0.5682, fit time = 1.42581766701187
+
+C = 0.1, gamma = 10
+training accuracy = 0.44310000000000005, test accuracy = 0.4233, fit time = 1.0805348329886328
+
