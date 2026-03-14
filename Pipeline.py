@@ -100,14 +100,14 @@ class Pipeline:
         
         return self.X_train, self.y_train, self.X_test, self.y_test, self.red_X_train, self.red_X_test
     
-    def fit(self, X=None, y=None, time=True):
+    def fit(self, X=None, y=None, time_t=True):
         """
         Sequentially transform the data and fit the transformed data using the 
         final estimator.
         
         X - Training data
         y - Training targets
-        time - True => output times
+        time_t - True => output times
         """
 
         X = self.red_X_train
@@ -117,7 +117,7 @@ class Pipeline:
         self.SVC.fit(X=X, y=y)
         end_time = time.perf_counter()
 
-        if (time):
+        if (time_t):
             print(f"elapsed time: {end_time - start_time}")
 
         #SVC is now fitted

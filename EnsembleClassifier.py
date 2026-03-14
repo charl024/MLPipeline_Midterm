@@ -22,7 +22,6 @@ class EnsembleClassifier:
             X_train = sampled_data[:, :-1]
             y_train = sampled_data[:, -1]
 
-            svc = 
 
     def predict(self, X):
         pass
