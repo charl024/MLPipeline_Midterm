@@ -41,23 +41,10 @@ class Pipeline:
 
         # SVC
         self.SVC = SVC
-        
-        # Initialize unpreprocesed data
-        self._load_uncompressed()
 
         # Load in preprocessed data
         self._transform()
 
-    def _load_uncompressed(self):
-        """
-        Load the data
-        """
-        X_train, y_train, X_test, y_test = self.data_set()
-
-        self.X_train = X_train
-        self.y_train = y_train
-        self.X_test = X_test
-        self.y_test = y_test
 
     def _transform(self):
         """
@@ -72,7 +59,7 @@ class Pipeline:
             else:
                 filename = "fashionmnist_reduced"
 
-            red_X_train, _, red_X_test, _ = load_dataset_from_file(filename=filename, num_components=self.num_components)
+            red_X_train, y_train, red_X_test, y_test = load_dataset_from_file(filename=filename, num_components=self.num_components)
 
         except ValueError as e:
             print(f"An exception occurred: {e}")
@@ -88,17 +75,12 @@ class Pipeline:
             else:
                 filename = "fashionmnist_reduced"
 
-            red_X_train, _, red_X_test, _ = load_dataset_from_file(filename=filename, num_components=self.num_components)
+            red_X_train, y_train, red_X_test, y_test = load_dataset_from_file(filename=filename, num_components=self.num_components)
         
         self.red_X_train = red_X_train
         self.red_X_test  = red_X_test
-
-    def get_data(self):
-        """
-        Get the data, not preprocessed
-        """
-        
-        return self.X_train, self.y_train, self.X_test, self.y_test, self.red_X_train, self.red_X_test
+        self.y_train = y_train
+        self.y_test = y_test
     
     def fit(self, X=None, y=None, time_t=True):
         """
@@ -114,7 +96,7 @@ class Pipeline:
         y = self.y_train
         
         start_time = time.perf_counter()
-        self.SVC.fit(X=X, y=y)
+        self.SVC = self.SVC.fit(X=X, y=y)
         end_time = time.perf_counter()
 
         if (time_t):
@@ -131,6 +113,7 @@ class Pipeline:
         X - Data to predict on
         """
 
-        X = self.red_X_test
-        
+        if (X is None):
+            X = self.red_X_test
+
         return self.SVC.predict(X)
