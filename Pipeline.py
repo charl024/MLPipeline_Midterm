@@ -99,11 +99,11 @@ class Pipeline:
         self.SVC = self.SVC.fit(X=X, y=y)
         end_time = time.perf_counter()
 
-        if (time_t):
-            print(f"elapsed time: {end_time - start_time}")
+        # if (time_t):
+        #     print(f"elapsed time: {end_time - start_time}")
 
         #SVC is now fitted
-        return self
+        return end_time - start_time
 
 
     def predict(self, X = None):

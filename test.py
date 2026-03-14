@@ -47,14 +47,11 @@ def linear_kernel_test():
 
     # print(param_range)
     for C in C_param_range:
-        start = time.perf_counter() 
-        svc = SVC(kernel='linear', max_iter=100, C=C)
+        svc = SVC(kernel='linear', max_iter=5, C=C)
         pl = Pipeline(SVC=svc)
-        pl.fit()
-        end = time.perf_counter()
+        total = pl.fit()
 
         train_error, test_error = calc_errors(pl)
-        total = end - start
 
         train_accuracy = (1.0 - train_error)
         test_accuracy  = (1.0 - test_error)
