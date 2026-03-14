@@ -2,6 +2,8 @@
 A pipeline class for testing various models
 """
 from dataset_reduction import load_dataset_from_file
+from dataset_reduction import save_mnist
+from dataset_reduction import save_fashion_mnist
 from sklearn.svm import SVC 
 import import_datasets
 import pca_lda
@@ -78,17 +80,15 @@ class Pipeline:
         #TODO: file reading instead of function calls every time
 
         if (red_X_train is None or red_X_test is None):
-            print("failed to read in, doing manually")
-            if (self.num_components == None):
-                # LDA
-                red_X_train, red_X_test = self.preprocessor(self.X_train, 
-                                                            self.y_train, 
-                                                            self.X_test)
+            print("loading in datasets")
+            save_mnist()
+            save_fashion_mnist()
+            if (self.data_set == MNST_STR):
+                filename = "mnist_reduced"
             else:
-                # PCA
-                red_X_train, red_X_test = self.preprocessor(self.X_train, 
-                                                            self.X_test, 
-                                                            self.num_components)
+                filename = "fashionmnist_reduced"
+
+            red_X_train, _, red_X_test, _ = load_dataset_from_file(filename=filename, num_components=self.num_components)
         
         self.red_X_train = red_X_train
         self.red_X_test  = red_X_test
