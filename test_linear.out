@@ -1,19 +1,17 @@
-Beginning
-Starting now!
-Number of iterations: 500
+Number of iterations: 8192
 
 C = 0.0001
-training accuracy = 0.5407166666666667, test_accuracy = 0.5407
+training accuracy = 0.8185833333333333, test accuracy = 0.8082, fit time = 21.711674776044674
 
 C = 0.001
-training accuracy = 0.5301666666666667, test_accuracy = 0.5241
+training accuracy = 0.8412999999999999, test accuracy = 0.8295, fit time = 16.039536622934975
 
 C = 0.01
-training accuracy = 0.6153833333333334, test_accuracy = 0.6078
+training accuracy = 0.8489666666666666, test accuracy = 0.8327, fit time = 15.231690441025421
 
 C = 0.1
-training accuracy = 0.4900333333333333, test_accuracy = 0.4827
+training accuracy = 0.7805333333333333, test accuracy = 0.7675, fit time = 19.088252741959877
 
 C = 1
-training accuracy = 0.3894833333333333, test_accuracy = 0.40080000000000005
+training accuracy = 0.64255, test accuracy = 0.6403, fit time = 18.693174417945556
 
