@@ -5,6 +5,7 @@ from dataset_reduction import load_dataset_from_file
 from sklearn.svm import SVC 
 import import_datasets
 import pca_lda
+import time
 
 MNST_STR = "mnist"
 
@@ -77,7 +78,7 @@ class Pipeline:
         #TODO: file reading instead of function calls every time
 
         if (red_X_train is None or red_X_test is None):
-            "failed to read in, doing manually"
+            print("failed to read in, doing manually")
             if (self.num_components == None):
                 # LDA
                 red_X_train, red_X_test = self.preprocessor(self.X_train, 
@@ -99,19 +100,25 @@ class Pipeline:
         
         return self.X_train, self.y_train, self.X_test, self.y_test, self.red_X_train, self.red_X_test
     
-    def fit(self, X=None, y=None):
+    def fit(self, X=None, y=None, time=True):
         """
         Sequentially transform the data and fit the transformed data using the 
         final estimator.
         
         X - Training data
         y - Training targets
+        time - True => output times
         """
 
         X = self.red_X_train
         y = self.y_train
         
+        start_time = time.perf_counter()
         self.SVC.fit(X=X, y=y)
+        end_time = time.perf_counter()
+
+        if (time):
+            print(f"elapsed time: {end_time - start_time}")
 
         #SVC is now fitted
         return self
