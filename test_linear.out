@@ -1,0 +1,19 @@
+Beginning
+Starting now!
+Number of iterations: 500
+
+C = 0.0001
+training accuracy = 0.5407166666666667, test_accuracy = 0.5407
+
+C = 0.001
+training accuracy = 0.5301666666666667, test_accuracy = 0.5241
+
+C = 0.01
+training accuracy = 0.6153833333333334, test_accuracy = 0.6078
+
+C = 0.1
+training accuracy = 0.4900333333333333, test_accuracy = 0.4827
+
+C = 1
+training accuracy = 0.3894833333333333, test_accuracy = 0.40080000000000005
+
