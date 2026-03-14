@@ -54,7 +54,4 @@ def save_fashion_mnist():
     train_data, train_labels, test_data, test_labels = get_fashion_mnist()
     reduce_dataset_and_save(train_data, train_labels, test_data, test_labels, "fashionmnist_reduced")
 
-save_mnist()
-save_fashion_mnist()
-
 # train_data, train_labels, test_data, test_labels = load_dataset_from_file("mnist_reduced", None)
