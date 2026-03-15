@@ -13,7 +13,7 @@ from sklearn.model_selection import validation_curve
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC 
 
-NUM_ITER = 75
+NUM_ITER = 1024
 
 def test():
     train_data, train_labels, test_data, test_labels = get_mnist()
@@ -75,5 +75,38 @@ def rbf_kernel_test():
             print(f"C = {C}, gamma = {gamma}")
             print(f"training accuracy = {train_accuracy}, test accuracy = {test_accuracy}, fit time = {total}\n")
 
+def poly_kernel_test():
+    top_n = 20
+    C_param_range = [0.01, 0.1, 1]
+    gamma_param_range = [0.0001, 0.001, 0.01, 0.1, 1, 10]
+    degree_param_range = [0, 1, 2, 3, 4, 5, 6]
 
-rbf_kernel_test()
+    print(f"Number of iterations: {NUM_ITER}\n")
+
+    results = []
+
+    for C in C_param_range:
+        for gamma in gamma_param_range:
+            for degree in degree_param_range:
+                svc = SVC(kernel='poly', max_iter=NUM_ITER, C=C, gamma=gamma, degree=degree)
+                pl = Pipeline(SVC=svc)
+                total = pl.fit()
+
+                train_error, test_error = calc_errors(pl)
+
+                train_accuracy = (1.0 - train_error)
+                test_accuracy  = (1.0 - test_error)
+
+                print(f"C = {C}, gamma = {gamma}, degree = {degree}")
+                print(f"training accuracy = {train_accuracy}, test accuracy = {test_accuracy}, fit time = {total}\n")
+                
+                results.append((test_accuracy, train_accuracy, C, gamma, degree, total))
+
+    print("\n\n\n")
+    for test_accuracy, train_accuracy, C, gamma, degree, total in sorted(results, reverse=True)[:top_n]:
+        print(f"C = {C}, gamma = {gamma}, degree = {degree}")
+        print(f"train accuracy = {train_accuracy}, test accuracy = {test_accuracy}, fit time = {total}\n")
+
+if __name__ == "__main__":
+    # rbf_kernel_test()
+    poly_kernel_test()

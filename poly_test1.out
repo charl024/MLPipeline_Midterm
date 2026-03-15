@@ -1,0 +1,380 @@
+Number of iterations: 75
+
+C = 0.01, gamma = 0.0001, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9104974580000089
+
+C = 0.01, gamma = 0.0001, degree = 1
+training accuracy = 0.3231333333333334, test accuracy = 0.32020000000000004, fit time = 0.9476447020000478
+
+C = 0.01, gamma = 0.0001, degree = 2
+training accuracy = 0.19023333333333337, test accuracy = 0.1906, fit time = 0.9818533840000327
+
+C = 0.01, gamma = 0.0001, degree = 3
+training accuracy = 0.13711666666666666, test accuracy = 0.13680000000000003, fit time = 0.9625666389999878
+
+C = 0.01, gamma = 0.0001, degree = 4
+training accuracy = 0.10760000000000003, test accuracy = 0.10770000000000002, fit time = 0.9864719810000224
+
+C = 0.01, gamma = 0.0001, degree = 5
+training accuracy = 0.11714999999999998, test accuracy = 0.11680000000000001, fit time = 1.0037844429999723
+
+C = 0.01, gamma = 0.0001, degree = 6
+training accuracy = 0.10650000000000004, test accuracy = 0.10609999999999997, fit time = 0.9775924260000011
+
+C = 0.01, gamma = 0.001, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.922117524999976
+
+C = 0.01, gamma = 0.001, degree = 1
+training accuracy = 0.32320000000000004, test accuracy = 0.32020000000000004, fit time = 0.9426095339999847
+
+C = 0.01, gamma = 0.001, degree = 2
+training accuracy = 0.1927833333333333, test accuracy = 0.19289999999999996, fit time = 1.003934195999932
+
+C = 0.01, gamma = 0.001, degree = 3
+training accuracy = 0.1885, test accuracy = 0.18879999999999997, fit time = 0.966162541000017
+
+C = 0.01, gamma = 0.001, degree = 4
+training accuracy = 0.1776333333333333, test accuracy = 0.17769999999999997, fit time = 1.0210268399999904
+
+C = 0.01, gamma = 0.001, degree = 5
+training accuracy = 0.11195, test accuracy = 0.11160000000000003, fit time = 0.9887448380000023
+
+C = 0.01, gamma = 0.001, degree = 6
+training accuracy = 0.15498333333333336, test accuracy = 0.15539999999999998, fit time = 1.0141046869999855
+
+C = 0.01, gamma = 0.01, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.911031749000017
+
+C = 0.01, gamma = 0.01, degree = 1
+training accuracy = 0.3310666666666666, test accuracy = 0.3274, fit time = 0.9854027400000405
+
+C = 0.01, gamma = 0.01, degree = 2
+training accuracy = 0.13283333333333336, test accuracy = 0.1291, fit time = 0.9647709280000072
+
+C = 0.01, gamma = 0.01, degree = 3
+training accuracy = 0.2632, test accuracy = 0.2569, fit time = 0.9065194879999581
+
+C = 0.01, gamma = 0.01, degree = 4
+training accuracy = 0.3250666666666666, test accuracy = 0.3147, fit time = 0.8605407789999617
+
+C = 0.01, gamma = 0.01, degree = 5
+training accuracy = 0.31886666666666663, test accuracy = 0.31520000000000004, fit time = 0.7566619919999766
+
+C = 0.01, gamma = 0.01, degree = 6
+training accuracy = 0.25065000000000004, test accuracy = 0.252, fit time = 0.743522095000003
+
+C = 0.01, gamma = 0.1, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9199137030000202
+
+C = 0.01, gamma = 0.1, degree = 1
+training accuracy = 0.3493333333333334, test accuracy = 0.34140000000000004, fit time = 0.8659423569999944
+
+C = 0.01, gamma = 0.1, degree = 2
+training accuracy = 0.47476666666666667, test accuracy = 0.45509999999999995, fit time = 0.7799211039999818
+
+C = 0.01, gamma = 0.1, degree = 3
+training accuracy = 0.4738, test accuracy = 0.476, fit time = 0.7355351159999373
+
+C = 0.01, gamma = 0.1, degree = 4
+training accuracy = 0.4204, test accuracy = 0.4112, fit time = 0.7821787819999599
+
+C = 0.01, gamma = 0.1, degree = 5
+training accuracy = 0.38311666666666666, test accuracy = 0.37549999999999994, fit time = 0.7187721190000502
+
+C = 0.01, gamma = 0.1, degree = 6
+training accuracy = 0.24708333333333332, test accuracy = 0.24470000000000003, fit time = 0.743989461999945
+
+C = 0.01, gamma = 1, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9122028549999186
+
+C = 0.01, gamma = 1, degree = 1
+training accuracy = 0.42766666666666664, test accuracy = 0.41600000000000004, fit time = 0.7227603819999331
+
+C = 0.01, gamma = 1, degree = 2
+training accuracy = 0.4269166666666667, test accuracy = 0.4091, fit time = 0.7851129360000186
+
+C = 0.01, gamma = 1, degree = 3
+training accuracy = 0.4738, test accuracy = 0.476, fit time = 0.7503564819999156
+
+C = 0.01, gamma = 1, degree = 4
+training accuracy = 0.4204, test accuracy = 0.4112, fit time = 0.7838387529999409
+
+C = 0.01, gamma = 1, degree = 5
+training accuracy = 0.3808166666666667, test accuracy = 0.37350000000000005, fit time = 0.738256449000005
+
+C = 0.01, gamma = 1, degree = 6
+training accuracy = 0.25044999999999995, test accuracy = 0.2471, fit time = 0.7308878110000023
+
+C = 0.01, gamma = 10, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9437024669999801
+
+C = 0.01, gamma = 10, degree = 1
+training accuracy = 0.38593333333333335, test accuracy = 0.38380000000000003, fit time = 0.6002139030000535
+
+C = 0.01, gamma = 10, degree = 2
+training accuracy = 0.4269166666666667, test accuracy = 0.4091, fit time = 0.8067822680000063
+
+C = 0.01, gamma = 10, degree = 3
+training accuracy = 0.4738, test accuracy = 0.476, fit time = 0.742151304999993
+
+C = 0.01, gamma = 10, degree = 4
+training accuracy = 0.4204, test accuracy = 0.4112, fit time = 0.797500340000056
+
+C = 0.01, gamma = 10, degree = 5
+training accuracy = 0.38085, test accuracy = 0.37350000000000005, fit time = 0.7236543969999047
+
+C = 0.01, gamma = 10, degree = 6
+training accuracy = 0.24708333333333332, test accuracy = 0.24470000000000003, fit time = 0.7485055500000044
+
+C = 0.1, gamma = 0.0001, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9190038729999515
+
+C = 0.1, gamma = 0.0001, degree = 1
+training accuracy = 0.32320000000000004, test accuracy = 0.32020000000000004, fit time = 0.9440474279999762
+
+C = 0.1, gamma = 0.0001, degree = 2
+training accuracy = 0.19028333333333336, test accuracy = 0.1906, fit time = 0.9857592519999798
+
+C = 0.1, gamma = 0.0001, degree = 3
+training accuracy = 0.1371, test accuracy = 0.13690000000000002, fit time = 0.9722017399999459
+
+C = 0.1, gamma = 0.0001, degree = 4
+training accuracy = 0.10760000000000003, test accuracy = 0.10770000000000002, fit time = 1.0136430549999886
+
+C = 0.1, gamma = 0.0001, degree = 5
+training accuracy = 0.11714999999999998, test accuracy = 0.11680000000000001, fit time = 0.9982632290000311
+
+C = 0.1, gamma = 0.0001, degree = 6
+training accuracy = 0.10650000000000004, test accuracy = 0.10609999999999997, fit time = 1.0047976969999581
+
+C = 0.1, gamma = 0.001, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9250337070000114
+
+C = 0.1, gamma = 0.001, degree = 1
+training accuracy = 0.3310666666666666, test accuracy = 0.3274, fit time = 0.9694688270000142
+
+C = 0.1, gamma = 0.001, degree = 2
+training accuracy = 0.1789333333333334, test accuracy = 0.1805, fit time = 0.9799895149999429
+
+C = 0.1, gamma = 0.001, degree = 3
+training accuracy = 0.1136166666666667, test accuracy = 0.11499999999999999, fit time = 0.970996729000035
+
+C = 0.1, gamma = 0.001, degree = 4
+training accuracy = 0.10924999999999996, test accuracy = 0.10960000000000003, fit time = 0.989340785999957
+
+C = 0.1, gamma = 0.001, degree = 5
+training accuracy = 0.10986666666666667, test accuracy = 0.10950000000000004, fit time = 0.9891848330000812
+
+C = 0.1, gamma = 0.001, degree = 6
+training accuracy = 0.10819999999999996, test accuracy = 0.10919999999999996, fit time = 0.9904302019999704
+
+C = 0.1, gamma = 0.01, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9203755580000461
+
+C = 0.1, gamma = 0.01, degree = 1
+training accuracy = 0.3493333333333334, test accuracy = 0.34140000000000004, fit time = 0.8741709299999911
+
+C = 0.1, gamma = 0.01, degree = 2
+training accuracy = 0.35196666666666665, test accuracy = 0.34550000000000003, fit time = 0.8747226410000621
+
+C = 0.1, gamma = 0.01, degree = 3
+training accuracy = 0.4087833333333334, test accuracy = 0.4043, fit time = 0.7561106399999744
+
+C = 0.1, gamma = 0.01, degree = 4
+training accuracy = 0.40615, test accuracy = 0.3952, fit time = 0.8003990439999598
+
+C = 0.1, gamma = 0.01, degree = 5
+training accuracy = 0.37111666666666665, test accuracy = 0.3611, fit time = 0.7304028710000239
+
+C = 0.1, gamma = 0.01, degree = 6
+training accuracy = 0.2644666666666666, test accuracy = 0.2602, fit time = 0.739247166000041
+
+C = 0.1, gamma = 0.1, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9086686930000951
+
+C = 0.1, gamma = 0.1, degree = 1
+training accuracy = 0.4278333333333333, test accuracy = 0.4164, fit time = 0.7017404869999382
+
+C = 0.1, gamma = 0.1, degree = 2
+training accuracy = 0.42405000000000004, test accuracy = 0.40780000000000005, fit time = 0.7866974449999589
+
+C = 0.1, gamma = 0.1, degree = 3
+training accuracy = 0.4738, test accuracy = 0.476, fit time = 0.7418508709999969
+
+C = 0.1, gamma = 0.1, degree = 4
+training accuracy = 0.4204, test accuracy = 0.4112, fit time = 0.7827783650000129
+
+C = 0.1, gamma = 0.1, degree = 5
+training accuracy = 0.38311666666666666, test accuracy = 0.37549999999999994, fit time = 0.7240938390000338
+
+C = 0.1, gamma = 0.1, degree = 6
+training accuracy = 0.24708333333333332, test accuracy = 0.24470000000000003, fit time = 0.7371275120000291
+
+C = 0.1, gamma = 1, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9206964490000473
+
+C = 0.1, gamma = 1, degree = 1
+training accuracy = 0.38580000000000003, test accuracy = 0.38349999999999995, fit time = 0.597144731999947
+
+C = 0.1, gamma = 1, degree = 2
+training accuracy = 0.4269166666666667, test accuracy = 0.4091, fit time = 0.7895340420000139
+
+C = 0.1, gamma = 1, degree = 3
+training accuracy = 0.4738, test accuracy = 0.476, fit time = 0.7398911459999908
+
+C = 0.1, gamma = 1, degree = 4
+training accuracy = 0.4204, test accuracy = 0.4112, fit time = 0.7814963870000611
+
+C = 0.1, gamma = 1, degree = 5
+training accuracy = 0.3808166666666667, test accuracy = 0.37350000000000005, fit time = 0.7205892069999891
+
+C = 0.1, gamma = 1, degree = 6
+training accuracy = 0.25044999999999995, test accuracy = 0.2471, fit time = 0.7331180060000406
+
+C = 0.1, gamma = 10, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9148552180000706
+
+C = 0.1, gamma = 10, degree = 1
+training accuracy = 0.3875833333333333, test accuracy = 0.38280000000000003, fit time = 0.5988732339999387
+
+C = 0.1, gamma = 10, degree = 2
+training accuracy = 0.4269166666666667, test accuracy = 0.4091, fit time = 0.7906910349998952
+
+C = 0.1, gamma = 10, degree = 3
+training accuracy = 0.4738, test accuracy = 0.476, fit time = 0.7447058499999457
+
+C = 0.1, gamma = 10, degree = 4
+training accuracy = 0.4204, test accuracy = 0.4112, fit time = 0.7841242949999696
+
+C = 0.1, gamma = 10, degree = 5
+training accuracy = 0.38085, test accuracy = 0.37350000000000005, fit time = 0.7272884870000098
+
+C = 0.1, gamma = 10, degree = 6
+training accuracy = 0.24708333333333332, test accuracy = 0.24470000000000003, fit time = 0.7304134129999511
+
+C = 1, gamma = 0.0001, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9310433009999315
+
+C = 1, gamma = 0.0001, degree = 1
+training accuracy = 0.3310666666666666, test accuracy = 0.3274, fit time = 0.944704076999983
+
+C = 1, gamma = 0.0001, degree = 2
+training accuracy = 0.1927833333333333, test accuracy = 0.19289999999999996, fit time = 0.9783680739999454
+
+C = 1, gamma = 0.0001, degree = 3
+training accuracy = 0.13711666666666666, test accuracy = 0.13680000000000003, fit time = 0.9663388500000565
+
+C = 1, gamma = 0.0001, degree = 4
+training accuracy = 0.10760000000000003, test accuracy = 0.10770000000000002, fit time = 0.9927490080000325
+
+C = 1, gamma = 0.0001, degree = 5
+training accuracy = 0.11713333333333331, test accuracy = 0.11680000000000001, fit time = 0.9920804870000666
+
+C = 1, gamma = 0.0001, degree = 6
+training accuracy = 0.10650000000000004, test accuracy = 0.10609999999999997, fit time = 0.9965513580000334
+
+C = 1, gamma = 0.001, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9157586219999985
+
+C = 1, gamma = 0.001, degree = 1
+training accuracy = 0.3493333333333334, test accuracy = 0.34140000000000004, fit time = 0.8732363809999697
+
+C = 1, gamma = 0.001, degree = 2
+training accuracy = 0.13283333333333336, test accuracy = 0.1291, fit time = 1.0036919620000617
+
+C = 1, gamma = 0.001, degree = 3
+training accuracy = 0.11263333333333336, test accuracy = 0.11209999999999998, fit time = 0.9610986270000694
+
+C = 1, gamma = 0.001, degree = 4
+training accuracy = 0.10560000000000003, test accuracy = 0.10560000000000003, fit time = 1.0128193829999645
+
+C = 1, gamma = 0.001, degree = 5
+training accuracy = 0.10599999999999998, test accuracy = 0.1069, fit time = 0.9893401900000072
+
+C = 1, gamma = 0.001, degree = 6
+training accuracy = 0.09831666666666672, test accuracy = 0.09889999999999999, fit time = 1.0214869369999633
+
+C = 1, gamma = 0.01, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9166111889999229
+
+C = 1, gamma = 0.01, degree = 1
+training accuracy = 0.4272, test accuracy = 0.4155, fit time = 0.7290854159999753
+
+C = 1, gamma = 0.01, degree = 2
+training accuracy = 0.47476666666666667, test accuracy = 0.45509999999999995, fit time = 0.7951837129999149
+
+C = 1, gamma = 0.01, degree = 3
+training accuracy = 0.45138333333333336, test accuracy = 0.45120000000000005, fit time = 0.7417137579999462
+
+C = 1, gamma = 0.01, degree = 4
+training accuracy = 0.4218166666666666, test accuracy = 0.4104, fit time = 0.7834419319999597
+
+C = 1, gamma = 0.01, degree = 5
+training accuracy = 0.3808166666666667, test accuracy = 0.37350000000000005, fit time = 0.7231171509999967
+
+C = 1, gamma = 0.01, degree = 6
+training accuracy = 0.247, test accuracy = 0.24470000000000003, fit time = 0.7315047879999383
+
+C = 1, gamma = 0.1, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.91394878899996
+
+C = 1, gamma = 0.1, degree = 1
+training accuracy = 0.38941666666666663, test accuracy = 0.38780000000000003, fit time = 0.5975872389999495
+
+C = 1, gamma = 0.1, degree = 2
+training accuracy = 0.42405000000000004, test accuracy = 0.40780000000000005, fit time = 0.7899970519999897
+
+C = 1, gamma = 0.1, degree = 3
+training accuracy = 0.4738, test accuracy = 0.476, fit time = 0.7385449329999574
+
+C = 1, gamma = 0.1, degree = 4
+training accuracy = 0.4204, test accuracy = 0.4112, fit time = 0.7908481079999774
+
+C = 1, gamma = 0.1, degree = 5
+training accuracy = 0.38311666666666666, test accuracy = 0.37549999999999994, fit time = 0.7223322810000354
+
+C = 1, gamma = 0.1, degree = 6
+training accuracy = 0.24708333333333332, test accuracy = 0.24470000000000003, fit time = 0.752212491000023
+
+C = 1, gamma = 1, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9203585839999278
+
+C = 1, gamma = 1, degree = 1
+training accuracy = 0.38913333333333333, test accuracy = 0.38670000000000004, fit time = 0.6177056399999401
+
+C = 1, gamma = 1, degree = 2
+training accuracy = 0.4269166666666667, test accuracy = 0.4091, fit time = 0.7915299740000137
+
+C = 1, gamma = 1, degree = 3
+training accuracy = 0.4738, test accuracy = 0.476, fit time = 0.7535702029999811
+
+C = 1, gamma = 1, degree = 4
+training accuracy = 0.4204, test accuracy = 0.4112, fit time = 0.7872030409999979
+
+C = 1, gamma = 1, degree = 5
+training accuracy = 0.3808166666666667, test accuracy = 0.37350000000000005, fit time = 0.7288905230000182
+
+C = 1, gamma = 1, degree = 6
+training accuracy = 0.25044999999999995, test accuracy = 0.2471, fit time = 0.730696791000014
+
+C = 1, gamma = 10, degree = 0
+training accuracy = 0.09999999999999998, test accuracy = 0.09999999999999998, fit time = 0.9492859749999525
+
+C = 1, gamma = 10, degree = 1
+training accuracy = 0.3875833333333333, test accuracy = 0.38280000000000003, fit time = 0.5970781359999364
+
+C = 1, gamma = 10, degree = 2
+training accuracy = 0.4269166666666667, test accuracy = 0.4091, fit time = 0.8070235839999214
+
+C = 1, gamma = 10, degree = 3
+training accuracy = 0.4738, test accuracy = 0.476, fit time = 0.7406770290000395
+
+C = 1, gamma = 10, degree = 4
+training accuracy = 0.4204, test accuracy = 0.4112, fit time = 0.8016981469999109
+
+C = 1, gamma = 10, degree = 5
+training accuracy = 0.38085, test accuracy = 0.37350000000000005, fit time = 0.724132155999996
+
+C = 1, gamma = 10, degree = 6
+training accuracy = 0.24708333333333332, test accuracy = 0.24470000000000003, fit time = 0.7410550319999629
+
