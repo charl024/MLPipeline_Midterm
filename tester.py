@@ -13,7 +13,7 @@ from sklearn.model_selection import validation_curve
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC 
 
-NUM_ITER = 75
+NUM_ITER = 8192
 
 def test():
     train_data, train_labels, test_data, test_labels = get_mnist()
@@ -55,10 +55,14 @@ def linear_kernel_test():
         print(f"training accuracy = {train_accuracy}, test accuracy = {test_accuracy}, fit time = {total}\n")
 
 def rbf_kernel_test():
-    C_param_range = [0.01, 0.1, 1]
-    gamma_param_range = [0.0001, 0.001, 0.01, 0.1, 1, 10]
+    C_param_range = [0.1, 1, 10, 100, 1000]
+    gamma_param_range = [0.0001, 0.001, 0.01, 0.1, 1]
 
     print(f"Number of iterations: {NUM_ITER}\n")
+        
+    train_best = [0, 0, 0]
+    test_best = [0, 0, 0]
+    best = [0, 0, 0]
 
 
     for C in C_param_range:
@@ -72,8 +76,25 @@ def rbf_kernel_test():
             train_accuracy = (1.0 - train_error)
             test_accuracy  = (1.0 - test_error)
 
+            if (train_best[0] < train_accuracy):
+                train_best[0] = train_accuracy
+                train_best[1] = C
+                train_best[2] = gamma
+
+            if (test_best[0] < test_accuracy):
+                test_best[0] = test_accuracy
+                test_best[1] = C
+                test_best[2] = gamma
+
+            if (best[0] < (test_accuracy + train_accuracy) / 2):
+                best[0] = (test_accuracy + train_accuracy) / 2
+                best[1] = C
+                best[2] = gamma
+
             print(f"C = {C}, gamma = {gamma}")
             print(f"training accuracy = {train_accuracy}, test accuracy = {test_accuracy}, fit time = {total}\n")
-
+    print(f"Train Best: C = {train_best[1]}, gamma = {train_best[2]}, training accuracy: {train_best[0]}")
+    print(f"Test Best: C = {test_best[1]}, gamma = {test_best[2]}, test accuracy: {test_best[0]}")
+    print(f"Best Average: C = {best[1]}, gamma = {best[2]}, (test + train) / 2 : {best[0]}")
 
 rbf_kernel_test()
