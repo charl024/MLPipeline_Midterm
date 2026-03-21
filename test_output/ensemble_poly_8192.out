@@ -1,0 +1,7 @@
+Number of Iterations = 8192
+Number of Components for PCA reduction = 50
+C = 0.1, gamma = 0.01, degree = 3
+training accuracy = 0.9900666666666667, test accuracy = 0.9715, fit time = 91.0983683319937
+
+228.39user 0.26system 3:47.33elapsed 100%CPU (0avgtext+0avgdata 337184maxresident)k
+8inputs+8outputs (1major+105287minor)pagefaults 0swaps
