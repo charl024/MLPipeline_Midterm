@@ -16,8 +16,8 @@
   warnings.warn(
 Number of Iterations = 8192
 Number of Components for PCA reduction = 50
-C = 0.1
-training accuracy = 0.9336666666666666, test accuracy = 0.9343, fit time = 114.97517425497063
+C = 0.01
+training accuracy = 0.9323, test accuracy = 0.9339, fit time = 74.44932450199849
 
-256.30user 0.27system 4:15.03elapsed 100%CPU (0avgtext+0avgdata 345292maxresident)k
-1984inputs+72outputs (22major+92678minor)pagefaults 0swaps
+226.01user 0.30system 3:44.73elapsed 100%CPU (0avgtext+0avgdata 335044maxresident)k
+0inputs+64outputs (9major+163592minor)pagefaults 0swaps
