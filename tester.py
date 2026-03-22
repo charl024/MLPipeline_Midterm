@@ -13,7 +13,8 @@ from sklearn.model_selection import validation_curve
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC 
 
-NUM_ITER = 32
+NUM_ITER = 512
+
 NUM_COMPONENTS = [50, 100, 200]
 
 def test():
@@ -140,14 +141,14 @@ def poly_kernel_test():
                     test_acc = single_test(svc=svc, num_comp=num_comp)
 
                     # Track the best test accuracy
-                    best_tracker = update_best(best_tracker, 
-                                               test_acc, 
-                                               C=C, 
-                                               gamma=gamma, 
-                                               degree=degree)
+                    test_best = update_best(test_best, 
+                                            test_acc, 
+                                            C=C, 
+                                            gamma=gamma, 
+                                            degree=degree)
         
         #OUTPUT BEST on test data set
-        print(f"Test Best: C = {test_best[1]}, gamma = {test_best[2]}, test accuracy: {test_best[0]}\n")
+        print(f"Test Best: C = {test_best[1]}, gamma = {test_best[2]}, degree = {test_best[3]}, test accuracy: {test_best[0]}\n")
 
 if __name__ == "__main__":
-    linear_kernel_test()
+    rbf_kernel_test()
