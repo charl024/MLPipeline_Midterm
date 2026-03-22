@@ -1,0 +1,91 @@
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+Number of iterations: 512
+
+Number of components for PCA reduction = 50
+
+C = 0.0001
+training accuracy = 0.5299166666666666, test accuracy = 0.5332, fit time = 9.00878573601949
+
+C = 0.001
+training accuracy = 0.53145, test accuracy = 0.5277000000000001, fit time = 7.182703972008312
+
+C = 0.01
+training accuracy = 0.5429333333333333, test accuracy = 0.5466, fit time = 5.050006314006168
+
+C = 0.1
+training accuracy = 0.4579333333333333, test accuracy = 0.4544, fit time = 3.763081588986097
+
+C = 1
+training accuracy = 0.4274833333333333, test accuracy = 0.4194, fit time = 3.617828872986138
+
+Test Best: C = 0.01, test accuracy: 0.5466
+
+Number of components for PCA reduction = 100
+
+C = 0.0001
+training accuracy = 0.5549, test accuracy = 0.5532, fit time = 21.204387872014195
+
+C = 0.001
+training accuracy = 0.5201833333333333, test accuracy = 0.5165, fit time = 14.750399913988076
+
+C = 0.01
+training accuracy = 0.63505, test accuracy = 0.6232, fit time = 11.391022680996684
+
+C = 0.1
+training accuracy = 0.46243333333333336, test accuracy = 0.4508, fit time = 8.994888329994865
+
+C = 1
+training accuracy = 0.49485, test accuracy = 0.48560000000000003, fit time = 8.831402732001152
+
+Test Best: C = 0.01, test accuracy: 0.6232
+
+Number of components for PCA reduction = 200
+
+C = 0.0001
+training accuracy = 0.5903833333333333, test accuracy = 0.5847, fit time = 42.86163347400725
+
+C = 0.001
+training accuracy = 0.5275833333333333, test accuracy = 0.5231, fit time = 29.697966069012182
+
+C = 0.01
+training accuracy = 0.7213166666666666, test accuracy = 0.7071000000000001, fit time = 21.864345080015482
+
+C = 0.1
+training accuracy = 0.5918666666666667, test accuracy = 0.5862, fit time = 18.117459397006314
+
+C = 1
+training accuracy = 0.5670999999999999, test accuracy = 0.5684, fit time = 18.075172139011556
+
+Test Best: C = 0.01, test accuracy: 0.7071000000000001
+
+669.99user 2.16system 12:17.36elapsed 91%CPU (0avgtext+0avgdata 387548maxresident)k
+585472inputs+136outputs (948major+692875minor)pagefaults 0swaps
