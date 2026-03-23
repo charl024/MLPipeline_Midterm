@@ -19,6 +19,14 @@ RBF_PARAMS = (1, 0.01, None)
 # For poly: C = 0.1, gamma = 0.01, degree = 3 
 POLY_PARAMS = (0.1, 0.01, 3)
 
+"""
+For poly, for num iter = 512, the following were found:
+PC50 Best: C = 1, gamma = 0.01, degree = 2, test accuracy: 0.6367
+PC100 Best: C = 0.01, gamma = 0.1, degree = 3, test accuracy: 0.694
+PC200 Best: C = 0.001, gamma = 1, degree = 3, test accuracy: 0.7283999999999999
+"""
+POLY_PARAMS_512 = [(1, 0.01, 2), (0.01, 0.1, 3), (0.001, 1, 3)]
+
 def get_accuracy(preds, actuals):
     """
     Get the proportion of correct predictions
@@ -81,7 +89,19 @@ def test_poly_ensemble(num_comps=NUM_COMPS):
     ensm = EnsembleClassifier(svc_type="poly", params=POLY_PARAMS, max_iter=NUM_ITERATIONS)
     run_test(ensm=ensm, num_comps=num_comps)
 
-if __name__ == "__main__":
+def test_poly_ensemble_512():
+    """Poly ensemble classifier test"""
     component_number = [50, 100, 200]
-    for n in component_number:
-        test_linear_ensemble(n)
+
+    for num_comps, params in zip(component_number, POLY_PARAMS_512):
+
+        print(f"Number of Iterations = {NUM_ITERATIONS}")
+        print(f"Number of Components for PCA reduction = {num_comps}")
+        print(f"C = {params[0]}, gamma = {params[1]}, degree = {params[2]}")
+
+        # Ensemble Classifier
+        ensm = EnsembleClassifier(svc_type="poly", params=params, max_iter=NUM_ITERATIONS)
+        run_test(ensm=ensm, num_comps=num_comps)
+
+if __name__ == "__main__":
+    test_poly_ensemble_512()

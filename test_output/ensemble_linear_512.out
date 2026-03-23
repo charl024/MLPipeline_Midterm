@@ -1,23 +1,15 @@
-/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
-  warnings.warn(
-/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
-  warnings.warn(
-/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
-  warnings.warn(
-/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
-  warnings.warn(
-/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
-  warnings.warn(
-/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
-  warnings.warn(
-/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
-  warnings.warn(
-/nfs/student/j/jvillarreal3/.local/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
-  warnings.warn(
 Number of Iterations = 512
 Number of Components for PCA reduction = 50
 C = 0.01
-training accuracy = 0.8328166666666666, test accuracy = 0.8338, fit time = 47.92016129900003
+training accuracy = 0.8300666666666666, test accuracy = 0.8314, fit time = 48.76655310500064
 
-172.53user 0.23system 2:51.65elapsed 100%CPU (0avgtext+0avgdata 335032maxresident)k
-55016inputs+72outputs (269major+53846minor)pagefaults 0swaps
+Number of Iterations = 512
+Number of Components for PCA reduction = 100
+C = 0.01
+training accuracy = 0.8633666666666666, test accuracy = 0.8599, fit time = 97.26095467701089
+
+Number of Iterations = 512
+Number of Components for PCA reduction = 200
+C = 0.01
+training accuracy = 0.9050333333333334, test accuracy = 0.9018, fit time = 183.09801739902468
+
