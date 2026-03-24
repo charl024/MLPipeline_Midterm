@@ -1,0 +1,239 @@
+Number of iterations: 64
+
+Number of components for PCA reduction = 50
+
+C = 0.1, gamma = 0.0001
+training accuracy = 0.33640000000000003, test accuracy = 0.32889999999999997, fit time = 2.214834382990375
+
+C = 0.1, gamma = 0.001
+training accuracy = 0.5499499999999999, test accuracy = 0.5499, fit time = 2.4542622650042176
+
+C = 0.1, gamma = 0.01
+training accuracy = 0.40846666666666664, test accuracy = 0.40369999999999995, fit time = 2.2071353049832396
+
+C = 0.1, gamma = 0.1
+training accuracy = 0.3069833333333334, test accuracy = 0.29810000000000003, fit time = 2.22316190804122
+
+C = 0.1, gamma = 1
+training accuracy = 0.5742, test accuracy = 0.5610999999999999, fit time = 2.9112680020043626
+
+C = 1, gamma = 0.0001
+training accuracy = 0.3269833333333333, test accuracy = 0.32189999999999996, fit time = 2.18406000896357
+
+C = 1, gamma = 0.001
+training accuracy = 0.52895, test accuracy = 0.5256000000000001, fit time = 2.07187388202874
+
+C = 1, gamma = 0.01
+training accuracy = 0.5175833333333333, test accuracy = 0.5103, fit time = 2.1975576300174
+
+C = 1, gamma = 0.1
+training accuracy = 0.30861666666666665, test accuracy = 0.3026, fit time = 2.2205232169944793
+
+C = 1, gamma = 1
+training accuracy = 0.5648, test accuracy = 0.5525, fit time = 2.9099474089452997
+
+C = 10, gamma = 0.0001
+training accuracy = 0.2103666666666667, test accuracy = 0.20899999999999996, fit time = 1.9876273730187677
+
+C = 10, gamma = 0.001
+training accuracy = 0.49206666666666665, test accuracy = 0.48729999999999996, fit time = 1.767689889005851
+
+C = 10, gamma = 0.01
+training accuracy = 0.5518000000000001, test accuracy = 0.5403, fit time = 2.146749662992079
+
+C = 10, gamma = 0.1
+training accuracy = 0.24188333333333334, test accuracy = 0.23399999999999999, fit time = 2.1906313639483415
+
+C = 10, gamma = 1
+training accuracy = 0.21794999999999998, test accuracy = 0.21189999999999998, fit time = 2.8899367920239456
+
+C = 100, gamma = 0.0001
+training accuracy = 0.47273333333333334, test accuracy = 0.4629, fit time = 1.583377834991552
+
+C = 100, gamma = 0.001
+training accuracy = 0.4908, test accuracy = 0.48560000000000003, fit time = 1.6474897069856524
+
+C = 100, gamma = 0.01
+training accuracy = 0.5373666666666667, test accuracy = 0.5294, fit time = 2.133086710993666
+
+C = 100, gamma = 0.1
+training accuracy = 0.24188333333333334, test accuracy = 0.23399999999999999, fit time = 2.219800992985256
+
+C = 100, gamma = 1
+training accuracy = 0.21794999999999998, test accuracy = 0.21189999999999998, fit time = 2.8806053459993564
+
+C = 1000, gamma = 0.0001
+training accuracy = 0.5000666666666667, test accuracy = 0.49239999999999995, fit time = 1.502036190009676
+
+C = 1000, gamma = 0.001
+training accuracy = 0.4461666666666667, test accuracy = 0.4497, fit time = 1.6495057620340958
+
+C = 1000, gamma = 0.01
+training accuracy = 0.5373666666666667, test accuracy = 0.5294, fit time = 2.1142383179976605
+
+C = 1000, gamma = 0.1
+training accuracy = 0.24188333333333334, test accuracy = 0.23399999999999999, fit time = 2.190939031948801
+
+C = 1000, gamma = 1
+training accuracy = 0.21794999999999998, test accuracy = 0.21189999999999998, fit time = 2.8713713929755613
+
+Test Best: C = 0.1, gamma = 1, test accuracy: 0.5610999999999999
+
+Number of components for PCA reduction = 100
+
+C = 0.1, gamma = 0.0001
+training accuracy = 0.3682333333333333, test accuracy = 0.3609, fit time = 5.025156296964269
+
+C = 0.1, gamma = 0.001
+training accuracy = 0.5316166666666666, test accuracy = 0.5254, fit time = 4.814115998044144
+
+C = 0.1, gamma = 0.01
+training accuracy = 0.45930000000000004, test accuracy = 0.45389999999999997, fit time = 4.8154732590192
+
+C = 0.1, gamma = 0.1
+training accuracy = 0.32968333333333333, test accuracy = 0.32189999999999996, fit time = 4.863400022964925
+
+C = 0.1, gamma = 1
+training accuracy = 0.64715, test accuracy = 0.6373, fit time = 5.4672596320160665
+
+C = 1, gamma = 0.0001
+training accuracy = 0.37198333333333333, test accuracy = 0.36160000000000003, fit time = 4.796578537032474
+
+C = 1, gamma = 0.001
+training accuracy = 0.5267666666666666, test accuracy = 0.5259, fit time = 4.542515872977674
+
+C = 1, gamma = 0.01
+training accuracy = 0.45566666666666666, test accuracy = 0.4508, fit time = 4.795951135980431
+
+C = 1, gamma = 0.1
+training accuracy = 0.24191666666666667, test accuracy = 0.23299999999999998, fit time = 4.8671875490108505
+
+C = 1, gamma = 1
+training accuracy = 0.6502166666666667, test accuracy = 0.6396, fit time = 5.474290810991079
+
+C = 10, gamma = 0.0001
+training accuracy = 0.22911666666666664, test accuracy = 0.23150000000000004, fit time = 4.245043104980141
+
+C = 10, gamma = 0.001
+training accuracy = 0.5304, test accuracy = 0.5203, fit time = 3.9790972099872306
+
+C = 10, gamma = 0.01
+training accuracy = 0.6326666666666667, test accuracy = 0.6141, fit time = 4.7291560410521924
+
+C = 10, gamma = 0.1
+training accuracy = 0.21161666666666668, test accuracy = 0.2037, fit time = 4.791831846989226
+
+C = 10, gamma = 1
+training accuracy = 0.15428333333333333, test accuracy = 0.1471, fit time = 5.448363974981476
+
+C = 100, gamma = 0.0001
+training accuracy = 0.46096666666666664, test accuracy = 0.4599, fit time = 3.5810179430409335
+
+C = 100, gamma = 0.001
+training accuracy = 0.47905, test accuracy = 0.4758, fit time = 4.462316826044116
+
+C = 100, gamma = 0.01
+training accuracy = 0.6182000000000001, test accuracy = 0.6014999999999999, fit time = 4.95306003105361
+
+C = 100, gamma = 0.1
+training accuracy = 0.21161666666666668, test accuracy = 0.2037, fit time = 5.852412847976666
+
+C = 100, gamma = 1
+training accuracy = 0.15428333333333333, test accuracy = 0.1471, fit time = 5.4062931159860454
+
+C = 1000, gamma = 0.0001
+training accuracy = 0.46485, test accuracy = 0.46440000000000003, fit time = 3.3699357790173963
+
+C = 1000, gamma = 0.001
+training accuracy = 0.4737, test accuracy = 0.4716, fit time = 3.8450181109947152
+
+C = 1000, gamma = 0.01
+training accuracy = 0.6182000000000001, test accuracy = 0.6014999999999999, fit time = 4.708217175968457
+
+C = 1000, gamma = 0.1
+training accuracy = 0.21161666666666668, test accuracy = 0.2037, fit time = 4.792915272992104
+
+C = 1000, gamma = 1
+training accuracy = 0.15428333333333333, test accuracy = 0.1471, fit time = 5.421158791985363
+
+Test Best: C = 1, gamma = 1, test accuracy: 0.6396
+
+Number of components for PCA reduction = 200
+
+C = 0.1, gamma = 0.0001
+training accuracy = 0.30523333333333336, test accuracy = 0.3035, fit time = 8.176301639003213
+
+C = 0.1, gamma = 0.001
+training accuracy = 0.5546, test accuracy = 0.5503, fit time = 8.346530458016787
+
+C = 0.1, gamma = 0.01
+training accuracy = 0.4987166666666667, test accuracy = 0.492, fit time = 8.181278218980879
+
+C = 0.1, gamma = 0.1
+training accuracy = 0.2633, test accuracy = 0.254, fit time = 8.245647336007096
+
+C = 0.1, gamma = 1
+training accuracy = 0.70985, test accuracy = 0.7015, fit time = 9.016723291017115
+
+C = 1, gamma = 0.0001
+training accuracy = 0.3096333333333333, test accuracy = 0.3052, fit time = 8.17663643101696
+
+C = 1, gamma = 0.001
+training accuracy = 0.5206, test accuracy = 0.5159, fit time = 7.844694773026276
+
+C = 1, gamma = 0.01
+training accuracy = 0.5246833333333334, test accuracy = 0.5151, fit time = 8.15754815802211
+
+C = 1, gamma = 0.1
+training accuracy = 0.3724166666666666, test accuracy = 0.36429999999999996, fit time = 8.207593056024052
+
+C = 1, gamma = 1
+training accuracy = 0.7096833333333333, test accuracy = 0.7015, fit time = 9.010371285956353
+
+C = 10, gamma = 0.0001
+training accuracy = 0.20823333333333338, test accuracy = 0.20820000000000005, fit time = 7.23526036698604
+
+C = 10, gamma = 0.001
+training accuracy = 0.49534999999999996, test accuracy = 0.4921, fit time = 7.090591415995732
+
+C = 10, gamma = 0.01
+training accuracy = 0.6491833333333333, test accuracy = 0.6321, fit time = 8.0786469259765
+
+C = 10, gamma = 0.1
+training accuracy = 0.2545166666666666, test accuracy = 0.24009999999999998, fit time = 8.170478909043595
+
+C = 10, gamma = 1
+training accuracy = 0.15134999999999998, test accuracy = 0.1451, fit time = 8.949184206023347
+
+C = 100, gamma = 0.0001
+training accuracy = 0.49988333333333335, test accuracy = 0.4939, fit time = 5.99180051399162
+
+C = 100, gamma = 0.001
+training accuracy = 0.5367166666666667, test accuracy = 0.528, fit time = 6.9872518119518645
+
+C = 100, gamma = 0.01
+training accuracy = 0.6491833333333333, test accuracy = 0.6321, fit time = 8.08065258897841
+
+C = 100, gamma = 0.1
+training accuracy = 0.2545166666666666, test accuracy = 0.24009999999999998, fit time = 8.16431736300001
+
+C = 100, gamma = 1
+training accuracy = 0.15134999999999998, test accuracy = 0.1451, fit time = 8.947113914997317
+
+C = 1000, gamma = 0.0001
+training accuracy = 0.4114833333333333, test accuracy = 0.41180000000000005, fit time = 5.951307164970785
+
+C = 1000, gamma = 0.001
+training accuracy = 0.5367166666666667, test accuracy = 0.528, fit time = 6.992001070990227
+
+C = 1000, gamma = 0.01
+training accuracy = 0.6491833333333333, test accuracy = 0.6321, fit time = 8.087808319018222
+
+C = 1000, gamma = 0.1
+training accuracy = 0.2545166666666666, test accuracy = 0.24009999999999998, fit time = 8.237806594988797
+
+C = 1000, gamma = 1
+training accuracy = 0.15134999999999998, test accuracy = 0.1451, fit time = 8.983508779958356
+
+Test Best: C = 0.1, gamma = 1, test accuracy: 0.7015
+

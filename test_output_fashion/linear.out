@@ -1,0 +1,59 @@
+Number of iterations: 512
+
+Number of components for PCA reduction = 50
+
+C = 0.0001
+training accuracy = 0.5299166666666666, test accuracy = 0.5332, fit time = 9.139030235994142
+
+C = 0.001
+training accuracy = 0.53145, test accuracy = 0.5277000000000001, fit time = 7.195806482050102
+
+C = 0.01
+training accuracy = 0.5429333333333333, test accuracy = 0.5466, fit time = 5.054392806952819
+
+C = 0.1
+training accuracy = 0.4579333333333333, test accuracy = 0.4544, fit time = 3.7655530770425685
+
+C = 1
+training accuracy = 0.4274833333333333, test accuracy = 0.4194, fit time = 3.666818983037956
+
+Test Best: C = 0.01, test accuracy: 0.5466
+
+Number of components for PCA reduction = 100
+
+C = 0.0001
+training accuracy = 0.5549, test accuracy = 0.5532, fit time = 21.19270851800684
+
+C = 0.001
+training accuracy = 0.5201833333333333, test accuracy = 0.5165, fit time = 14.742316855001263
+
+C = 0.01
+training accuracy = 0.63505, test accuracy = 0.6232, fit time = 11.359878484974615
+
+C = 0.1
+training accuracy = 0.46243333333333336, test accuracy = 0.4508, fit time = 8.971183961024508
+
+C = 1
+training accuracy = 0.49485, test accuracy = 0.48560000000000003, fit time = 8.842081871989649
+
+Test Best: C = 0.01, test accuracy: 0.6232
+
+Number of components for PCA reduction = 200
+
+C = 0.0001
+training accuracy = 0.5903833333333333, test accuracy = 0.5847, fit time = 43.388981614029035
+
+C = 0.001
+training accuracy = 0.5275833333333333, test accuracy = 0.5231, fit time = 29.685266137006693
+
+C = 0.01
+training accuracy = 0.7213166666666666, test accuracy = 0.7071000000000001, fit time = 21.91337236604886
+
+C = 0.1
+training accuracy = 0.5918666666666667, test accuracy = 0.5862, fit time = 18.172256652032956
+
+C = 1
+training accuracy = 0.5670999999999999, test accuracy = 0.5684, fit time = 18.05333512701327
+
+Test Best: C = 0.01, test accuracy: 0.7071000000000001
+

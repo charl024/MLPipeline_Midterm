@@ -1,0 +1,15 @@
+Number of Iterations = 512
+Number of Components for PCA reduction = 50
+C = 0.01
+training accuracy = 0.6448, test accuracy = 0.6341, fit time = 43.219945043034386
+
+Number of Iterations = 512
+Number of Components for PCA reduction = 100
+C = 0.01
+training accuracy = 0.68415, test accuracy = 0.6669, fit time = 88.13524501799839
+
+Number of Iterations = 512
+Number of Components for PCA reduction = 200
+C = 0.01
+training accuracy = 0.75975, test accuracy = 0.7402, fit time = 169.5639704290079
+
