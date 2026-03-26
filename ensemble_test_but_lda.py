@@ -1,0 +1,105 @@
+from EnsembleClassifier import EnsembleClassifier
+from dataset_reduction import load_dataset_from_file
+import numpy as np
+import time
+
+
+NUM_ITERATIONS = 512
+
+NUM_COMPS = None
+
+# For linear: C = 0.01
+LINEAR_PARAMS = (0.01, None, None)
+
+# For rbf, 8192: C = 10, gamma = 0.001
+#RBF_PARAMS = (10, 0.001, None)
+# For rbf, 512:C = 1, gamma = 0.01
+RBF_PARAMS = (1, 0.01, None)
+
+# For poly: C = 0.1, gamma = 0.01, degree = 3 
+POLY_PARAMS = (0.1, 0.01, 3)
+
+"""
+For poly, for num iter = 512, the following were found:
+PC50 Best: C = 1, gamma = 0.01, degree = 2, test accuracy: 0.6367
+PC100 Best: C = 0.01, gamma = 0.1, degree = 3, test accuracy: 0.694
+PC200 Best: C = 0.001, gamma = 1, degree = 3, test accuracy: 0.7283999999999999
+"""
+POLY_PARAMS_512 = [(1, 0.01, 2), (0.01, 0.1, 3), (0.001, 1, 3)]
+
+def get_accuracy(preds, actuals):
+    """
+    Get the proportion of correct predictions
+
+    preds   - predicted labels
+    actuals - true labels
+    """
+    return np.mean(preds == actuals)
+
+def run_test(ensm, num_comps, dataset_name):
+    # Load data
+    X_train, y_train, X_test, y_test = load_dataset_from_file(dataset_name, num_components=num_comps)
+
+    # Learn machine
+    start_time = time.perf_counter()
+    ensm.fit(X_train, y_train)
+    end_time = time.perf_counter()
+
+    elapsed_time = end_time - start_time
+
+    # Get accuracy
+    train_acc = get_accuracy(ensm.predict(X_train), y_train)
+    test_acc = get_accuracy(ensm.predict(X_test), y_test)
+
+    print(f"training accuracy = {train_acc}, test accuracy = {test_acc}, fit time = {elapsed_time}\n")
+
+    return (train_acc, test_acc, elapsed_time)
+
+
+def test_linear_ensemble(num_comps=NUM_COMPS, dataset_name="mnist_reduced"):
+    """Linear ensemble classifier test"""
+
+    print(f"Number of Iterations = {NUM_ITERATIONS}")
+    # print(f"Number of Components for PCA reduction = {num_comps}")
+    print(f"C = {LINEAR_PARAMS[0]}")
+
+    # Ensemble Classifier
+    ensm = EnsembleClassifier(svc_type="linear", params=LINEAR_PARAMS, max_iter=NUM_ITERATIONS)
+    run_test(ensm=ensm, num_comps=num_comps, dataset_name=dataset_name)
+
+def test_rbf_ensemble(num_comps=NUM_COMPS,dataset_name="mnist_reduced"):
+    """RBF ensemble classifier test"""
+
+    print(f"Number of Iterations = {NUM_ITERATIONS}")
+    # print(f"Number of Components for PCA reduction = {num_comps}")
+    print(f"C = {RBF_PARAMS[0]}, gamma = {RBF_PARAMS[1]}")
+
+    # Ensemble Classifier
+    ensm = EnsembleClassifier(svc_type="rbf", params=RBF_PARAMS, max_iter=NUM_ITERATIONS)
+    run_test(ensm=ensm, num_comps=num_comps, dataset_name=dataset_name)
+
+def test_poly_ensemble(num_comps=NUM_COMPS, dataset_name="mnist_reduced"):
+    """Poly ensemble classifier test"""
+
+    print(f"Number of Iterations = {NUM_ITERATIONS}")
+    # print(f"Number of Components for PCA reduction = {num_comps}")
+    print(f"C = {POLY_PARAMS[0]}, gamma = {POLY_PARAMS[1]}, degree = {POLY_PARAMS[2]}")
+
+    # Ensemble Classifier
+    ensm = EnsembleClassifier(svc_type="poly", params=POLY_PARAMS, max_iter=NUM_ITERATIONS)
+    run_test(ensm=ensm, num_comps=num_comps, dataset_name=dataset_name)
+
+if __name__ == "__main__":
+    print("ENSEMBLE w/ LINEAR ON LDA-MNIST")
+    test_linear_ensemble(num_comps=None, dataset_name="mnist_reduced")
+    print("ENSEMBLE w/ RBF ON LDA-MNIST")
+    test_rbf_ensemble(num_comps=None, dataset_name="mnist_reduced")
+    print("ENSEMBLE w/ POLY ON LDA-MNIST")
+    test_poly_ensemble(num_comps=None, dataset_name="mnist_reduced")
+
+    print("ENSEMBLE w/ LINEAR ON LDA-FASHIONMNIST")
+    test_linear_ensemble(num_comps=None, dataset_name="fashionmnist_reduced")
+    print("ENSEMBLE w/ RBF ON LDA-FASHIONMNIST")
+    test_rbf_ensemble(num_comps=None, dataset_name="fashionmnist_reduced")
+    print("ENSEMBLE w/ POLY ON LDA-FASHIONMNIST")
+    test_poly_ensemble(num_comps=None, dataset_name="fashionmnist_reduced")
