@@ -26,10 +26,7 @@ class Pipeline:
         """
         
         #Define dataset function
-        if data_set == MNST_STR:
-            self.data_set = import_datasets.get_mnist
-        else: 
-            self.data_set = import_datasets.get_fashion_mnist
+        self.data_set = data_set
 
         #Define the preprocessing strategy
         if preprocessor == "pca":
