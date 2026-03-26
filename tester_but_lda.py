@@ -109,8 +109,7 @@ def rbf_kernel_test(dataset_str):
                 svc = SVC(kernel='rbf', max_iter=NUM_ITER, C=C, gamma=gamma)
                 test_acc, test_time = single_test(svc=svc, num_comp=num_comp, dataset_str=dataset_str)
                 # Track the best test accuracy
-                test_best = update_best(test_best, test_acc, C, gamma, time=test_time)
-        
+                test_best = update_best(test_best, test_acc, C, time=test_time, gamma=gamma)        
         #OUTPUT BEST on test data set
         print(f"Test Best: C = {test_best[2]}, gamma = {test_best[3]}, test accuracy: {test_best[1]}, time: {test_best[0]}\n")
 
@@ -162,6 +161,6 @@ if __name__ == "__main__":
     print("LINEAR KERNEL WITH LDA-FASHIONMNIST")
     linear_kernel_test("fashionmnist")
     print("RBF KERNEL WITH LDA-FASHIONMNIST")
-    rbf_kernel_test("mnist")
+    rbf_kernel_test("fashionmnist")
     print("POLY KERNEL WITH LDA-FASHIONMNIST")
     poly_kernel_test("fashionmnist")
