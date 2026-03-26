@@ -1,0 +1,1592 @@
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/nfs/student/student/c/comaoeng/CS529/MLPipeline_Midterm/mldev/lib/python3.10/site-packages/sklearn/svm/_base.py:305: ConvergenceWarning: Solver terminated early (max_iter=512).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+LINEAR KERNEL WITH LDA-MNIST
+Number of iterations: 512
+
+Number of components for PCA reduction = None
+
+C = 0.0001
+training accuracy = 0.6599833333333334, test accuracy = 0.6472, fit time = 8.425325782038271
+
+C = 0.001
+training accuracy = 0.7315833333333333, test accuracy = 0.7182999999999999, fit time = 5.384008110035211
+
+C = 0.01
+training accuracy = 0.6637833333333334, test accuracy = 0.6504, fit time = 4.1321622270625085
+
+C = 0.1
+training accuracy = 0.74215, test accuracy = 0.7312000000000001, fit time = 3.869677768088877
+
+C = 1
+training accuracy = 0.5690666666666666, test accuracy = 0.5653, fit time = 2.8251169838476926
+
+Test Best: C = 0.1, test accuracy: 0.7312000000000001, time: 3.869677768088877
+
+RBF KERNEL WITH LDA-MNIST
+Number of iterations: 512
+
+Number of components for PCA reduction = None
+
+C = 0.1, gamma = 0.0001
+training accuracy = 0.5245666666666666, test accuracy = 0.5138, fit time = 12.037179325008765
+
+C = 0.1, gamma = 0.001
+training accuracy = 0.5833333333333333, test accuracy = 0.5751999999999999, fit time = 11.083951679989696
+
+C = 0.1, gamma = 0.01
+training accuracy = 0.6054166666666667, test accuracy = 0.5992, fit time = 7.629234775900841
+
+C = 0.1, gamma = 0.1
+training accuracy = 0.6094999999999999, test accuracy = 0.5908, fit time = 8.992008938919753
+
+C = 0.1, gamma = 1
+training accuracy = 0.7633166666666666, test accuracy = 0.6913, fit time = 12.090850869193673
+
+C = 1, gamma = 0.0001
+training accuracy = 0.6636, test accuracy = 0.6541, fit time = 11.155416626948863
+
+C = 1, gamma = 0.001
+training accuracy = 0.6219666666666667, test accuracy = 0.6147, fit time = 7.4633029801771045
+
+C = 1, gamma = 0.01
+training accuracy = 0.5594333333333333, test accuracy = 0.5562, fit time = 5.914440143154934
+
+C = 1, gamma = 0.1
+training accuracy = 0.7461333333333333, test accuracy = 0.7296, fit time = 7.0478698229417205
+
+C = 1, gamma = 1
+training accuracy = 0.7906166666666666, test accuracy = 0.7215, fit time = 11.833381030941382
+
+C = 10, gamma = 0.0001
+training accuracy = 0.6727000000000001, test accuracy = 0.6616, fit time = 7.448294603964314
+
+C = 10, gamma = 0.001
+training accuracy = 0.6142333333333334, test accuracy = 0.6038, fit time = 6.022306971019134
+
+C = 10, gamma = 0.01
+training accuracy = 0.5818, test accuracy = 0.5755, fit time = 5.473342418903485
+
+C = 10, gamma = 0.1
+training accuracy = 0.7273833333333333, test accuracy = 0.7112, fit time = 6.062643978046253
+
+C = 10, gamma = 1
+training accuracy = 0.79695, test accuracy = 0.7090000000000001, fit time = 11.495797008974478
+
+C = 100, gamma = 0.0001
+training accuracy = 0.6910000000000001, test accuracy = 0.6788000000000001, fit time = 6.043010922148824
+
+C = 100, gamma = 0.001
+training accuracy = 0.5533333333333333, test accuracy = 0.5466, fit time = 5.722708289977163
+
+C = 100, gamma = 0.01
+training accuracy = 0.47855000000000003, test accuracy = 0.4749, fit time = 4.884593307040632
+
+C = 100, gamma = 0.1
+training accuracy = 0.6532666666666667, test accuracy = 0.6355, fit time = 5.370350474957377
+
+C = 100, gamma = 1
+training accuracy = 0.7649333333333334, test accuracy = 0.6793, fit time = 11.375499976798892
+
+C = 1000, gamma = 0.0001
+training accuracy = 0.6496333333333333, test accuracy = 0.641, fit time = 5.6940041980706155
+
+C = 1000, gamma = 0.001
+training accuracy = 0.52835, test accuracy = 0.5256000000000001, fit time = 4.745532548986375
+
+C = 1000, gamma = 0.01
+training accuracy = 0.4535166666666667, test accuracy = 0.4484, fit time = 4.628722376888618
+
+C = 1000, gamma = 0.1
+training accuracy = 0.5859833333333333, test accuracy = 0.5676, fit time = 5.255813085939735
+
+C = 1000, gamma = 1
+training accuracy = 0.7676833333333333, test accuracy = 0.6843, fit time = 11.434589246986434
+
+Test Best: C = 1, gamma = 0.1, test accuracy: 0.7296, time: 7.0478698229417205
+
+POLY KERNEL WITH LDA-MNIST
+Number of iterations: 512
+
+Number of components for PCA reduction = None
+
+C = 0.001, gamma = 0.0001, degree = 1
+training accuracy = 0.5661499999999999, test accuracy = 0.5533, fit time = 8.838251077802852
+
+C = 0.001, gamma = 0.0001, degree = 2
+training accuracy = 0.5448999999999999, test accuracy = 0.5318, fit time = 9.073907177895308
+
+C = 0.001, gamma = 0.0001, degree = 3
+training accuracy = 0.39115, test accuracy = 0.3859, fit time = 9.120683928020298
+
+C = 0.001, gamma = 0.0001, degree = 4
+training accuracy = 0.4036666666666666, test accuracy = 0.3972, fit time = 9.322198851965368
+
+C = 0.001, gamma = 0.0001, degree = 5
+training accuracy = 0.5073333333333334, test accuracy = 0.5006999999999999, fit time = 9.542788222897798
+
+C = 0.001, gamma = 0.001, degree = 1
+training accuracy = 0.5660000000000001, test accuracy = 0.5529999999999999, fit time = 8.819247897947207
+
+C = 0.001, gamma = 0.001, degree = 2
+training accuracy = 0.5448500000000001, test accuracy = 0.5322, fit time = 9.119478308130056
+
+C = 0.001, gamma = 0.001, degree = 3
+training accuracy = 0.39149999999999996, test accuracy = 0.38560000000000005, fit time = 9.207302323076874
+
+C = 0.001, gamma = 0.001, degree = 4
+training accuracy = 0.40441666666666665, test accuracy = 0.398, fit time = 9.407762133982033
+
+C = 0.001, gamma = 0.001, degree = 5
+training accuracy = 0.35785, test accuracy = 0.35229999999999995, fit time = 9.478680853033438
+
+C = 0.001, gamma = 0.01, degree = 1
+training accuracy = 0.5646666666666667, test accuracy = 0.5526, fit time = 8.896336974110454
+
+C = 0.001, gamma = 0.01, degree = 2
+training accuracy = 0.5435166666666666, test accuracy = 0.5304, fit time = 9.189592028968036
+
+C = 0.001, gamma = 0.01, degree = 3
+training accuracy = 0.39141666666666663, test accuracy = 0.38560000000000005, fit time = 9.162257046904415
+
+C = 0.001, gamma = 0.01, degree = 4
+training accuracy = 0.4044, test accuracy = 0.39790000000000003, fit time = 9.359600462019444
+
+C = 0.001, gamma = 0.01, degree = 5
+training accuracy = 0.35819999999999996, test accuracy = 0.3528, fit time = 9.4404861361254
+
+C = 0.001, gamma = 0.1, degree = 1
+training accuracy = 0.6599833333333334, test accuracy = 0.6472, fit time = 8.808782486943528
+
+C = 0.001, gamma = 0.1, degree = 2
+training accuracy = 0.4965333333333334, test accuracy = 0.48360000000000003, fit time = 9.015582284890115
+
+C = 0.001, gamma = 0.1, degree = 3
+training accuracy = 0.4416833333333333, test accuracy = 0.4386, fit time = 8.301687770988792
+
+C = 0.001, gamma = 0.1, degree = 4
+training accuracy = 0.3797666666666667, test accuracy = 0.37770000000000004, fit time = 8.429454053984955
+
+C = 0.001, gamma = 0.1, degree = 5
+training accuracy = 0.37115, test accuracy = 0.3678, fit time = 7.762946682982147
+
+C = 0.001, gamma = 1, degree = 1
+training accuracy = 0.7315833333333333, test accuracy = 0.7182999999999999, fit time = 6.239835839951411
+
+C = 0.001, gamma = 1, degree = 2
+training accuracy = 0.4796666666666667, test accuracy = 0.4777, fit time = 5.921149298083037
+
+C = 0.001, gamma = 1, degree = 3
+training accuracy = 0.47175, test accuracy = 0.47140000000000004, fit time = 3.7735723049845546
+
+C = 0.001, gamma = 1, degree = 4
+training accuracy = 0.40523333333333333, test accuracy = 0.40159999999999996, fit time = 3.8815571682062
+
+C = 0.001, gamma = 1, degree = 5
+training accuracy = 0.48058333333333336, test accuracy = 0.48040000000000005, fit time = 3.3563844279851764
+
+C = 0.01, gamma = 0.0001, degree = 1
+training accuracy = 0.5660000000000001, test accuracy = 0.5529999999999999, fit time = 8.879320165840909
+
+C = 0.01, gamma = 0.0001, degree = 2
+training accuracy = 0.5448999999999999, test accuracy = 0.5318, fit time = 9.122123438864946
+
+C = 0.01, gamma = 0.0001, degree = 3
+training accuracy = 0.39149999999999996, test accuracy = 0.38560000000000005, fit time = 9.203295395011082
+
+C = 0.01, gamma = 0.0001, degree = 4
+training accuracy = 0.40395000000000003, test accuracy = 0.397, fit time = 9.449341065948829
+
+C = 0.01, gamma = 0.0001, degree = 5
+training accuracy = 0.3945666666666666, test accuracy = 0.38959999999999995, fit time = 9.452047497965395
+
+C = 0.01, gamma = 0.001, degree = 1
+training accuracy = 0.5646666666666667, test accuracy = 0.5526, fit time = 8.867849942995235
+
+C = 0.01, gamma = 0.001, degree = 2
+training accuracy = 0.5449666666666666, test accuracy = 0.5322, fit time = 9.10321680107154
+
+C = 0.01, gamma = 0.001, degree = 3
+training accuracy = 0.39149999999999996, test accuracy = 0.38560000000000005, fit time = 9.182230226928368
+
+C = 0.01, gamma = 0.001, degree = 4
+training accuracy = 0.40441666666666665, test accuracy = 0.398, fit time = 9.445403456920758
+
+C = 0.01, gamma = 0.001, degree = 5
+training accuracy = 0.35773333333333335, test accuracy = 0.35229999999999995, fit time = 9.423517918912694
+
+C = 0.01, gamma = 0.01, degree = 1
+training accuracy = 0.6599833333333334, test accuracy = 0.6472, fit time = 8.783040232025087
+
+C = 0.01, gamma = 0.01, degree = 2
+training accuracy = 0.5426166666666667, test accuracy = 0.5315, fit time = 9.070009234827012
+
+C = 0.01, gamma = 0.01, degree = 3
+training accuracy = 0.39078333333333337, test accuracy = 0.385, fit time = 9.072772858897224
+
+C = 0.01, gamma = 0.01, degree = 4
+training accuracy = 0.40446666666666664, test accuracy = 0.398, fit time = 9.335430929902941
+
+C = 0.01, gamma = 0.01, degree = 5
+training accuracy = 0.35791666666666666, test accuracy = 0.35240000000000005, fit time = 9.320398099021986
+
+C = 0.01, gamma = 0.1, degree = 1
+training accuracy = 0.7315833333333333, test accuracy = 0.7182999999999999, fit time = 6.172170585021377
+
+C = 0.01, gamma = 0.1, degree = 2
+training accuracy = 0.6221333333333333, test accuracy = 0.6117, fit time = 7.562986946897581
+
+C = 0.01, gamma = 0.1, degree = 3
+training accuracy = 0.4828, test accuracy = 0.47850000000000004, fit time = 6.513200793880969
+
+C = 0.01, gamma = 0.1, degree = 4
+training accuracy = 0.4774166666666667, test accuracy = 0.46930000000000005, fit time = 7.080921503016725
+
+C = 0.01, gamma = 0.1, degree = 5
+training accuracy = 0.4540166666666666, test accuracy = 0.44699999999999995, fit time = 6.567866028985009
+
+C = 0.01, gamma = 1, degree = 1
+training accuracy = 0.6637833333333334, test accuracy = 0.6504, fit time = 4.692397409118712
+
+C = 0.01, gamma = 1, degree = 2
+training accuracy = 0.5082666666666666, test accuracy = 0.49739999999999995, fit time = 4.9573770188726485
+
+C = 0.01, gamma = 1, degree = 3
+training accuracy = 0.4731666666666666, test accuracy = 0.4668, fit time = 3.0077171199955046
+
+C = 0.01, gamma = 1, degree = 4
+training accuracy = 0.41323333333333334, test accuracy = 0.41259999999999997, fit time = 3.590080191148445
+
+C = 0.01, gamma = 1, degree = 5
+training accuracy = 0.4501166666666667, test accuracy = 0.44620000000000004, fit time = 3.230053198058158
+
+C = 0.1, gamma = 0.0001, degree = 1
+training accuracy = 0.5646666666666667, test accuracy = 0.5526, fit time = 8.807319690939039
+
+C = 0.1, gamma = 0.0001, degree = 2
+training accuracy = 0.5448500000000001, test accuracy = 0.5322, fit time = 9.068746192147955
+
+C = 0.1, gamma = 0.0001, degree = 3
+training accuracy = 0.39149999999999996, test accuracy = 0.38560000000000005, fit time = 9.080395890865475
+
+C = 0.1, gamma = 0.0001, degree = 4
+training accuracy = 0.4034, test accuracy = 0.39659999999999995, fit time = 9.359488070011139
+
+C = 0.1, gamma = 0.0001, degree = 5
+training accuracy = 0.3645166666666667, test accuracy = 0.36, fit time = 9.319210950052366
+
+C = 0.1, gamma = 0.001, degree = 1
+training accuracy = 0.6599833333333334, test accuracy = 0.6472, fit time = 8.73963310290128
+
+C = 0.1, gamma = 0.001, degree = 2
+training accuracy = 0.5435166666666666, test accuracy = 0.5304, fit time = 9.051215813029557
+
+C = 0.1, gamma = 0.001, degree = 3
+training accuracy = 0.39149999999999996, test accuracy = 0.38560000000000005, fit time = 9.07864924496971
+
+C = 0.1, gamma = 0.001, degree = 4
+training accuracy = 0.40441666666666665, test accuracy = 0.398, fit time = 9.313977967947721
+
+C = 0.1, gamma = 0.001, degree = 5
+training accuracy = 0.35773333333333335, test accuracy = 0.35229999999999995, fit time = 9.384616832947358
+
+C = 0.1, gamma = 0.01, degree = 1
+training accuracy = 0.7315833333333333, test accuracy = 0.7182999999999999, fit time = 6.140518268104643
+
+C = 0.1, gamma = 0.01, degree = 2
+training accuracy = 0.4965333333333334, test accuracy = 0.48360000000000003, fit time = 9.014941337984055
+
+C = 0.1, gamma = 0.01, degree = 3
+training accuracy = 0.4125, test accuracy = 0.40659999999999996, fit time = 9.11347040697001
+
+C = 0.1, gamma = 0.01, degree = 4
+training accuracy = 0.40359999999999996, test accuracy = 0.39649999999999996, fit time = 9.356906752102077
+
+C = 0.1, gamma = 0.01, degree = 5
+training accuracy = 0.3587166666666667, test accuracy = 0.35350000000000004, fit time = 9.322115223156288
+
+C = 0.1, gamma = 0.1, degree = 1
+training accuracy = 0.6637833333333334, test accuracy = 0.6504, fit time = 4.709618751192465
+
+C = 0.1, gamma = 0.1, degree = 2
+training accuracy = 0.47965, test accuracy = 0.4777, fit time = 5.9314075550064445
+
+C = 0.1, gamma = 0.1, degree = 3
+training accuracy = 0.50885, test accuracy = 0.5009, fit time = 5.07539375894703
+
+C = 0.1, gamma = 0.1, degree = 4
+training accuracy = 0.5503, test accuracy = 0.5398000000000001, fit time = 5.748278330080211
+
+C = 0.1, gamma = 0.1, degree = 5
+training accuracy = 0.4481666666666667, test accuracy = 0.44079999999999997, fit time = 5.102484666975215
+
+C = 0.1, gamma = 1, degree = 1
+training accuracy = 0.74215, test accuracy = 0.7312000000000001, fit time = 4.379884620895609
+
+C = 0.1, gamma = 1, degree = 2
+training accuracy = 0.3683333333333333, test accuracy = 0.3649, fit time = 4.054055206011981
+
+C = 0.1, gamma = 1, degree = 3
+training accuracy = 0.38695, test accuracy = 0.3879, fit time = 2.9927380979061127
+
+C = 0.1, gamma = 1, degree = 4
+training accuracy = 0.4880833333333333, test accuracy = 0.485, fit time = 3.4747630620840937
+
+C = 0.1, gamma = 1, degree = 5
+training accuracy = 0.45285, test accuracy = 0.4477, fit time = 3.237360570114106
+
+C = 1, gamma = 0.0001, degree = 1
+training accuracy = 0.6599833333333334, test accuracy = 0.6472, fit time = 8.775946391979232
+
+C = 1, gamma = 0.0001, degree = 2
+training accuracy = 0.5449666666666666, test accuracy = 0.5322, fit time = 9.075921788113192
+
+C = 1, gamma = 0.0001, degree = 3
+training accuracy = 0.39149999999999996, test accuracy = 0.38560000000000005, fit time = 9.105453764088452
+
+C = 1, gamma = 0.0001, degree = 4
+training accuracy = 0.40435, test accuracy = 0.39790000000000003, fit time = 9.32795229414478
+
+C = 1, gamma = 0.0001, degree = 5
+training accuracy = 0.3515666666666667, test accuracy = 0.347, fit time = 9.477518173865974
+
+C = 1, gamma = 0.001, degree = 1
+training accuracy = 0.7315833333333333, test accuracy = 0.7182999999999999, fit time = 6.2195856960024685
+
+C = 1, gamma = 0.001, degree = 2
+training accuracy = 0.5426166666666667, test accuracy = 0.5315, fit time = 9.05539417010732
+
+C = 1, gamma = 0.001, degree = 3
+training accuracy = 0.39141666666666663, test accuracy = 0.38560000000000005, fit time = 9.13830261095427
+
+C = 1, gamma = 0.001, degree = 4
+training accuracy = 0.40441666666666665, test accuracy = 0.398, fit time = 9.39063125103712
+
+C = 1, gamma = 0.001, degree = 5
+training accuracy = 0.35773333333333335, test accuracy = 0.35229999999999995, fit time = 9.515753434970975
+
+C = 1, gamma = 0.01, degree = 1
+training accuracy = 0.6637833333333334, test accuracy = 0.6504, fit time = 4.690672642085701
+
+C = 1, gamma = 0.01, degree = 2
+training accuracy = 0.6221333333333333, test accuracy = 0.6117, fit time = 7.463132670149207
+
+C = 1, gamma = 0.01, degree = 3
+training accuracy = 0.4416833333333333, test accuracy = 0.4386, fit time = 8.300398305989802
+
+C = 1, gamma = 0.01, degree = 4
+training accuracy = 0.39885000000000004, test accuracy = 0.39359999999999995, fit time = 9.409719536779448
+
+C = 1, gamma = 0.01, degree = 5
+training accuracy = 0.36101666666666665, test accuracy = 0.3548, fit time = 9.435611048014835
+
+C = 1, gamma = 0.1, degree = 1
+training accuracy = 0.74265, test accuracy = 0.7314, fit time = 4.407837883103639
+
+C = 1, gamma = 0.1, degree = 2
+training accuracy = 0.5694, test accuracy = 0.5615, fit time = 4.995963709894568
+
+C = 1, gamma = 0.1, degree = 3
+training accuracy = 0.6138166666666667, test accuracy = 0.6053999999999999, fit time = 3.7266902420669794
+
+C = 1, gamma = 0.1, degree = 4
+training accuracy = 0.50485, test accuracy = 0.49319999999999997, fit time = 4.547347115119919
+
+C = 1, gamma = 0.1, degree = 5
+training accuracy = 0.5018833333333333, test accuracy = 0.49429999999999996, fit time = 3.928968922002241
+
+C = 1, gamma = 1, degree = 1
+training accuracy = 0.5690666666666666, test accuracy = 0.5653, fit time = 3.129241044865921
+
+C = 1, gamma = 1, degree = 2
+training accuracy = 0.3458833333333333, test accuracy = 0.3419, fit time = 3.8372715460136533
+
+C = 1, gamma = 1, degree = 3
+training accuracy = 0.37201666666666666, test accuracy = 0.3667, fit time = 3.0691066610161215
+
+C = 1, gamma = 1, degree = 4
+training accuracy = 0.48205, test accuracy = 0.48129999999999995, fit time = 3.5616970618721098
+
+C = 1, gamma = 1, degree = 5
+training accuracy = 0.45285, test accuracy = 0.4477, fit time = 3.216338587924838
+
+C = 10, gamma = 0.0001, degree = 1
+training accuracy = 0.7315833333333333, test accuracy = 0.7182999999999999, fit time = 6.140221530105919
+
+C = 10, gamma = 0.0001, degree = 2
+training accuracy = 0.5435166666666666, test accuracy = 0.5304, fit time = 9.147102852817625
+
+C = 10, gamma = 0.0001, degree = 3
+training accuracy = 0.39149999999999996, test accuracy = 0.38560000000000005, fit time = 9.123828615993261
+
+C = 10, gamma = 0.0001, degree = 4
+training accuracy = 0.40441666666666665, test accuracy = 0.398, fit time = 9.323780006961897
+
+C = 10, gamma = 0.0001, degree = 5
+training accuracy = 0.3585666666666667, test accuracy = 0.35340000000000005, fit time = 9.316470478894189
+
+C = 10, gamma = 0.001, degree = 1
+training accuracy = 0.6637833333333334, test accuracy = 0.6504, fit time = 4.702035406138748
+
+C = 10, gamma = 0.001, degree = 2
+training accuracy = 0.4965333333333334, test accuracy = 0.48360000000000003, fit time = 9.023343526991084
+
+C = 10, gamma = 0.001, degree = 3
+training accuracy = 0.39078333333333337, test accuracy = 0.385, fit time = 9.157997802831233
+
+C = 10, gamma = 0.001, degree = 4
+training accuracy = 0.4044, test accuracy = 0.39790000000000003, fit time = 9.446916871936992
+
+C = 10, gamma = 0.001, degree = 5
+training accuracy = 0.35773333333333335, test accuracy = 0.35229999999999995, fit time = 9.402769642183557
+
+C = 10, gamma = 0.01, degree = 1
+training accuracy = 0.74205, test accuracy = 0.731, fit time = 4.412639008136466
+
+C = 10, gamma = 0.01, degree = 2
+training accuracy = 0.4796666666666667, test accuracy = 0.4777, fit time = 5.9277747760061175
+
+C = 10, gamma = 0.01, degree = 3
+training accuracy = 0.48278333333333334, test accuracy = 0.47840000000000005, fit time = 6.516915041953325
+
+C = 10, gamma = 0.01, degree = 4
+training accuracy = 0.3797666666666667, test accuracy = 0.37770000000000004, fit time = 8.478784675011411
+
+C = 10, gamma = 0.01, degree = 5
+training accuracy = 0.3411833333333333, test accuracy = 0.33819999999999995, fit time = 9.07975269202143
+
+C = 10, gamma = 0.1, degree = 1
+training accuracy = 0.5692833333333334, test accuracy = 0.5655, fit time = 3.1851216219365597
+
+C = 10, gamma = 0.1, degree = 2
+training accuracy = 0.43720000000000003, test accuracy = 0.43200000000000005, fit time = 4.000644919928163
+
+C = 10, gamma = 0.1, degree = 3
+training accuracy = 0.47519999999999996, test accuracy = 0.4739, fit time = 3.133675054181367
+
+C = 10, gamma = 0.1, degree = 4
+training accuracy = 0.42245, test accuracy = 0.4214, fit time = 3.936899332795292
+
+C = 10, gamma = 0.1, degree = 5
+training accuracy = 0.4654666666666667, test accuracy = 0.46120000000000005, fit time = 3.5035505939740688
+
+C = 10, gamma = 1, degree = 1
+training accuracy = 0.4459666666666666, test accuracy = 0.4436, fit time = 2.3748278359416872
+
+C = 10, gamma = 1, degree = 2
+training accuracy = 0.35183333333333333, test accuracy = 0.35029999999999994, fit time = 3.653061941964552
+
+C = 10, gamma = 1, degree = 3
+training accuracy = 0.37201666666666666, test accuracy = 0.3667, fit time = 3.0304092317819595
+
+C = 10, gamma = 1, degree = 4
+training accuracy = 0.48205, test accuracy = 0.48129999999999995, fit time = 3.5205782591365278
+
+C = 10, gamma = 1, degree = 5
+training accuracy = 0.45285, test accuracy = 0.4477, fit time = 3.35435068490915
+
+Test Best: C = 1, gamma = 0.1, degree = 1, test accuracy: 0.7314, time: 4.407837883103639
+
+LINEAR KERNEL WITH LDA-FASHIONMNIST
+Number of iterations: 512
+
+Number of components for PCA reduction = None
+
+C = 0.0001
+training accuracy = 0.6599833333333334, test accuracy = 0.6472, fit time = 7.756430523935705
+
+C = 0.001
+training accuracy = 0.7315833333333333, test accuracy = 0.7182999999999999, fit time = 5.429890144150704
+
+C = 0.01
+training accuracy = 0.6637833333333334, test accuracy = 0.6504, fit time = 4.153976924018934
+
+C = 0.1
+training accuracy = 0.74215, test accuracy = 0.7312000000000001, fit time = 3.889597523957491
+
+C = 1
+training accuracy = 0.5690666666666666, test accuracy = 0.5653, fit time = 2.835215101018548
+
+Test Best: C = 0.1, test accuracy: 0.7312000000000001, time: 3.889597523957491
+
+RBF KERNEL WITH LDA-FASHIONMNIST
+Number of iterations: 512
+
+Number of components for PCA reduction = None
+
+C = 0.1, gamma = 0.0001
+training accuracy = 0.5245666666666666, test accuracy = 0.5138, fit time = 11.960887199034914
+
+C = 0.1, gamma = 0.001
+training accuracy = 0.5833333333333333, test accuracy = 0.5751999999999999, fit time = 11.091927085770294
+
+C = 0.1, gamma = 0.01
+training accuracy = 0.6054166666666667, test accuracy = 0.5992, fit time = 7.620522652985528
+
+C = 0.1, gamma = 0.1
+training accuracy = 0.6094999999999999, test accuracy = 0.5908, fit time = 8.98198306793347
+
+C = 0.1, gamma = 1
+training accuracy = 0.7633166666666666, test accuracy = 0.6913, fit time = 12.076805310091004
+
+C = 1, gamma = 0.0001
+training accuracy = 0.6636, test accuracy = 0.6541, fit time = 10.958127551944926
+
+C = 1, gamma = 0.001
+training accuracy = 0.6219666666666667, test accuracy = 0.6147, fit time = 7.414666671073064
+
+C = 1, gamma = 0.01
+training accuracy = 0.5594333333333333, test accuracy = 0.5562, fit time = 6.134477861924097
+
+C = 1, gamma = 0.1
+training accuracy = 0.7461333333333333, test accuracy = 0.7296, fit time = 7.056609224062413
+
+C = 1, gamma = 1
+training accuracy = 0.7906166666666666, test accuracy = 0.7215, fit time = 11.970357503043488
+
+C = 10, gamma = 0.0001
+training accuracy = 0.6727000000000001, test accuracy = 0.6616, fit time = 7.463305885903537
+
+C = 10, gamma = 0.001
+training accuracy = 0.6142333333333334, test accuracy = 0.6038, fit time = 6.151076197158545
+
+C = 10, gamma = 0.01
+training accuracy = 0.5818, test accuracy = 0.5755, fit time = 5.477498068008572
+
+C = 10, gamma = 0.1
+training accuracy = 0.7273833333333333, test accuracy = 0.7112, fit time = 6.061879365006462
+
+C = 10, gamma = 1
+training accuracy = 0.79695, test accuracy = 0.7090000000000001, fit time = 11.58145104511641
+
+C = 100, gamma = 0.0001
+training accuracy = 0.6910000000000001, test accuracy = 0.6788000000000001, fit time = 6.201839491026476
+
+C = 100, gamma = 0.001
+training accuracy = 0.5533333333333333, test accuracy = 0.5466, fit time = 5.72156927594915
+
+C = 100, gamma = 0.01
+training accuracy = 0.47855000000000003, test accuracy = 0.4749, fit time = 4.828326481860131
+
+C = 100, gamma = 0.1
+training accuracy = 0.6532666666666667, test accuracy = 0.6355, fit time = 5.323784903855994
+
+C = 100, gamma = 1
+training accuracy = 0.7649333333333334, test accuracy = 0.6793, fit time = 11.575115791056305
+
+C = 1000, gamma = 0.0001
+training accuracy = 0.6496333333333333, test accuracy = 0.641, fit time = 5.681722211884335
+
+C = 1000, gamma = 0.001
+training accuracy = 0.52835, test accuracy = 0.5256000000000001, fit time = 4.739069254137576
+
+C = 1000, gamma = 0.01
+training accuracy = 0.4535166666666667, test accuracy = 0.4484, fit time = 4.69006532500498
+
+C = 1000, gamma = 0.1
+training accuracy = 0.5859833333333333, test accuracy = 0.5676, fit time = 5.298809255007654
+
+C = 1000, gamma = 1
+training accuracy = 0.7676833333333333, test accuracy = 0.6843, fit time = 11.379897210979834
+
+Test Best: C = 1, gamma = 0.1, test accuracy: 0.7296, time: 7.056609224062413
+
+POLY KERNEL WITH LDA-FASHIONMNIST
+Number of iterations: 512
+
+Number of components for PCA reduction = None
+
+C = 0.001, gamma = 0.0001, degree = 1
+training accuracy = 0.5661499999999999, test accuracy = 0.5533, fit time = 8.995709259994328
+
+C = 0.001, gamma = 0.0001, degree = 2
+training accuracy = 0.5448999999999999, test accuracy = 0.5318, fit time = 9.238593260059133
+
+C = 0.001, gamma = 0.0001, degree = 3
+training accuracy = 0.39115, test accuracy = 0.3859, fit time = 9.135768251027912
+
+C = 0.001, gamma = 0.0001, degree = 4
+training accuracy = 0.4036666666666666, test accuracy = 0.3972, fit time = 9.509890451095998
+
+C = 0.001, gamma = 0.0001, degree = 5
+training accuracy = 0.5073333333333334, test accuracy = 0.5006999999999999, fit time = 9.539026748156175
+
+C = 0.001, gamma = 0.001, degree = 1
+training accuracy = 0.5660000000000001, test accuracy = 0.5529999999999999, fit time = 8.836175252916291
+
+C = 0.001, gamma = 0.001, degree = 2
+training accuracy = 0.5448500000000001, test accuracy = 0.5322, fit time = 9.08996802684851
+
+C = 0.001, gamma = 0.001, degree = 3
+training accuracy = 0.39149999999999996, test accuracy = 0.38560000000000005, fit time = 9.16258815699257
+
+C = 0.001, gamma = 0.001, degree = 4
+training accuracy = 0.40441666666666665, test accuracy = 0.398, fit time = 9.423206840176135
+
+C = 0.001, gamma = 0.001, degree = 5
+training accuracy = 0.35785, test accuracy = 0.35229999999999995, fit time = 9.395875183865428
+
+C = 0.001, gamma = 0.01, degree = 1
+training accuracy = 0.5646666666666667, test accuracy = 0.5526, fit time = 8.953176995972171
+
+C = 0.001, gamma = 0.01, degree = 2
+training accuracy = 0.5435166666666666, test accuracy = 0.5304, fit time = 9.083307005930692
+
+C = 0.001, gamma = 0.01, degree = 3
+training accuracy = 0.39141666666666663, test accuracy = 0.38560000000000005, fit time = 9.155321396887302
+
+C = 0.001, gamma = 0.01, degree = 4
+training accuracy = 0.4044, test accuracy = 0.39790000000000003, fit time = 9.422321481164545
+
+C = 0.001, gamma = 0.01, degree = 5
+training accuracy = 0.35819999999999996, test accuracy = 0.3528, fit time = 9.404646502807736
+
+C = 0.001, gamma = 0.1, degree = 1
+training accuracy = 0.6599833333333334, test accuracy = 0.6472, fit time = 8.902459944132715
+
+C = 0.001, gamma = 0.1, degree = 2
+training accuracy = 0.4965333333333334, test accuracy = 0.48360000000000003, fit time = 9.076495724031702
+
+C = 0.001, gamma = 0.1, degree = 3
+training accuracy = 0.4416833333333333, test accuracy = 0.4386, fit time = 8.465771376155317
+
+C = 0.001, gamma = 0.1, degree = 4
+training accuracy = 0.3797666666666667, test accuracy = 0.37770000000000004, fit time = 8.38111676601693
+
+C = 0.001, gamma = 0.1, degree = 5
+training accuracy = 0.37115, test accuracy = 0.3678, fit time = 7.9969666679389775
+
+C = 0.001, gamma = 1, degree = 1
+training accuracy = 0.7315833333333333, test accuracy = 0.7182999999999999, fit time = 6.171698594931513
+
+C = 0.001, gamma = 1, degree = 2
+training accuracy = 0.4796666666666667, test accuracy = 0.4777, fit time = 6.024461345979944
+
+C = 0.001, gamma = 1, degree = 3
+training accuracy = 0.47175, test accuracy = 0.47140000000000004, fit time = 3.86741191893816
+
+C = 0.001, gamma = 1, degree = 4
+training accuracy = 0.40523333333333333, test accuracy = 0.40159999999999996, fit time = 3.810202581807971
+
+C = 0.001, gamma = 1, degree = 5
+training accuracy = 0.48058333333333336, test accuracy = 0.48040000000000005, fit time = 3.285945450887084
+
+C = 0.01, gamma = 0.0001, degree = 1
+training accuracy = 0.5660000000000001, test accuracy = 0.5529999999999999, fit time = 8.812914995942265
+
+C = 0.01, gamma = 0.0001, degree = 2
+training accuracy = 0.5448999999999999, test accuracy = 0.5318, fit time = 9.051317753037438
+
+C = 0.01, gamma = 0.0001, degree = 3
+training accuracy = 0.39149999999999996, test accuracy = 0.38560000000000005, fit time = 9.096001357771456
+
+C = 0.01, gamma = 0.0001, degree = 4
+training accuracy = 0.40395000000000003, test accuracy = 0.397, fit time = 9.39852252905257
+
+C = 0.01, gamma = 0.0001, degree = 5
+training accuracy = 0.3945666666666666, test accuracy = 0.38959999999999995, fit time = 9.545269601047039
+
+C = 0.01, gamma = 0.001, degree = 1
+training accuracy = 0.5646666666666667, test accuracy = 0.5526, fit time = 8.962679107906297
+
+C = 0.01, gamma = 0.001, degree = 2
+training accuracy = 0.5449666666666666, test accuracy = 0.5322, fit time = 9.196834500180557
+
+C = 0.01, gamma = 0.001, degree = 3
+training accuracy = 0.39149999999999996, test accuracy = 0.38560000000000005, fit time = 9.111657335190102
+
+C = 0.01, gamma = 0.001, degree = 4
+training accuracy = 0.40441666666666665, test accuracy = 0.398, fit time = 9.3807103629224
+
+C = 0.01, gamma = 0.001, degree = 5
+training accuracy = 0.35773333333333335, test accuracy = 0.35229999999999995, fit time = 9.344376389170066
+
+C = 0.01, gamma = 0.01, degree = 1
+training accuracy = 0.6599833333333334, test accuracy = 0.6472, fit time = 8.872846119105816
+
+C = 0.01, gamma = 0.01, degree = 2
+training accuracy = 0.5426166666666667, test accuracy = 0.5315, fit time = 9.213973880046979
+
+C = 0.01, gamma = 0.01, degree = 3
+training accuracy = 0.39078333333333337, test accuracy = 0.385, fit time = 9.126733701908961
+
+C = 0.01, gamma = 0.01, degree = 4
+training accuracy = 0.40446666666666664, test accuracy = 0.398, fit time = 9.383645675843582
+
+C = 0.01, gamma = 0.01, degree = 5
+training accuracy = 0.35791666666666666, test accuracy = 0.35240000000000005, fit time = 9.371927042026073
+
+C = 0.01, gamma = 0.1, degree = 1
+training accuracy = 0.7315833333333333, test accuracy = 0.7182999999999999, fit time = 6.1518079079687595
+
+C = 0.01, gamma = 0.1, degree = 2
+training accuracy = 0.6221333333333333, test accuracy = 0.6117, fit time = 7.476608874974772
+
+C = 0.01, gamma = 0.1, degree = 3
+training accuracy = 0.4828, test accuracy = 0.47850000000000004, fit time = 6.536275771912187
+
+C = 0.01, gamma = 0.1, degree = 4
+training accuracy = 0.4774166666666667, test accuracy = 0.46930000000000005, fit time = 7.0865096668712795
+
+C = 0.01, gamma = 0.1, degree = 5
+training accuracy = 0.4540166666666666, test accuracy = 0.44699999999999995, fit time = 6.676036118995398
+
+C = 0.01, gamma = 1, degree = 1
+training accuracy = 0.6637833333333334, test accuracy = 0.6504, fit time = 4.804455559933558
+
+C = 0.01, gamma = 1, degree = 2
+training accuracy = 0.5082666666666666, test accuracy = 0.49739999999999995, fit time = 4.994680238189176
+
+C = 0.01, gamma = 1, degree = 3
+training accuracy = 0.4731666666666666, test accuracy = 0.4668, fit time = 3.035724988905713
+
+C = 0.01, gamma = 1, degree = 4
+training accuracy = 0.41323333333333334, test accuracy = 0.41259999999999997, fit time = 3.5922290910966694
+
+C = 0.01, gamma = 1, degree = 5
+training accuracy = 0.4501166666666667, test accuracy = 0.44620000000000004, fit time = 3.3137830668129027
+
+C = 0.1, gamma = 0.0001, degree = 1
+training accuracy = 0.5646666666666667, test accuracy = 0.5526, fit time = 8.856503835879266
+
+C = 0.1, gamma = 0.0001, degree = 2
+training accuracy = 0.5448500000000001, test accuracy = 0.5322, fit time = 9.060670172097161
+
+C = 0.1, gamma = 0.0001, degree = 3
+training accuracy = 0.39149999999999996, test accuracy = 0.38560000000000005, fit time = 9.180634624091908
+
+C = 0.1, gamma = 0.0001, degree = 4
+training accuracy = 0.4034, test accuracy = 0.39659999999999995, fit time = 9.438127456931397
+
+C = 0.1, gamma = 0.0001, degree = 5
+training accuracy = 0.3645166666666667, test accuracy = 0.36, fit time = 9.40737225394696
+
+C = 0.1, gamma = 0.001, degree = 1
+training accuracy = 0.6599833333333334, test accuracy = 0.6472, fit time = 8.780867402907461
+
+C = 0.1, gamma = 0.001, degree = 2
+training accuracy = 0.5435166666666666, test accuracy = 0.5304, fit time = 9.104031780036166
+
+C = 0.1, gamma = 0.001, degree = 3
+training accuracy = 0.39149999999999996, test accuracy = 0.38560000000000005, fit time = 9.185170500073582
+
+C = 0.1, gamma = 0.001, degree = 4
+training accuracy = 0.40441666666666665, test accuracy = 0.398, fit time = 9.44455477502197
+
+C = 0.1, gamma = 0.001, degree = 5
+training accuracy = 0.35773333333333335, test accuracy = 0.35229999999999995, fit time = 9.427951636025682
+
+C = 0.1, gamma = 0.01, degree = 1
+training accuracy = 0.7315833333333333, test accuracy = 0.7182999999999999, fit time = 6.2091971738263965
+
+C = 0.1, gamma = 0.01, degree = 2
+training accuracy = 0.4965333333333334, test accuracy = 0.48360000000000003, fit time = 9.105942124966532
+
+C = 0.1, gamma = 0.01, degree = 3
+training accuracy = 0.4125, test accuracy = 0.40659999999999996, fit time = 9.118922512978315
+
+C = 0.1, gamma = 0.01, degree = 4
+training accuracy = 0.40359999999999996, test accuracy = 0.39649999999999996, fit time = 9.47075153212063
+
+C = 0.1, gamma = 0.01, degree = 5
+training accuracy = 0.3587166666666667, test accuracy = 0.35350000000000004, fit time = 9.350515387021005
+
+C = 0.1, gamma = 0.1, degree = 1
+training accuracy = 0.6637833333333334, test accuracy = 0.6504, fit time = 4.819303123047575
+
+C = 0.1, gamma = 0.1, degree = 2
+training accuracy = 0.47965, test accuracy = 0.4777, fit time = 5.960248062154278
+
+C = 0.1, gamma = 0.1, degree = 3
+training accuracy = 0.50885, test accuracy = 0.5009, fit time = 5.146701389923692
+
+C = 0.1, gamma = 0.1, degree = 4
+training accuracy = 0.5503, test accuracy = 0.5398000000000001, fit time = 5.847786332014948
+
+C = 0.1, gamma = 0.1, degree = 5
+training accuracy = 0.4481666666666667, test accuracy = 0.44079999999999997, fit time = 5.202139199944213
+
+C = 0.1, gamma = 1, degree = 1
+training accuracy = 0.74215, test accuracy = 0.7312000000000001, fit time = 4.429603585973382
+
+C = 0.1, gamma = 1, degree = 2
+training accuracy = 0.3683333333333333, test accuracy = 0.3649, fit time = 4.052281094016507
+
+C = 0.1, gamma = 1, degree = 3
+training accuracy = 0.38695, test accuracy = 0.3879, fit time = 2.9986905590631068
+
+C = 0.1, gamma = 1, degree = 4
+training accuracy = 0.4880833333333333, test accuracy = 0.485, fit time = 3.513533296994865
+
+C = 0.1, gamma = 1, degree = 5
+training accuracy = 0.45285, test accuracy = 0.4477, fit time = 3.329706681892276
+
+C = 1, gamma = 0.0001, degree = 1
+training accuracy = 0.6599833333333334, test accuracy = 0.6472, fit time = 8.810357186943293
+
+C = 1, gamma = 0.0001, degree = 2
+training accuracy = 0.5449666666666666, test accuracy = 0.5322, fit time = 9.063921991037205
+
+C = 1, gamma = 0.0001, degree = 3
+training accuracy = 0.39149999999999996, test accuracy = 0.38560000000000005, fit time = 9.219258829019964
+
+C = 1, gamma = 0.0001, degree = 4
+training accuracy = 0.40435, test accuracy = 0.39790000000000003, fit time = 9.46813967404887
+
+C = 1, gamma = 0.0001, degree = 5
+training accuracy = 0.3515666666666667, test accuracy = 0.347, fit time = 9.444693990983069
+
+C = 1, gamma = 0.001, degree = 1
+training accuracy = 0.7315833333333333, test accuracy = 0.7182999999999999, fit time = 6.218239947920665
+
+C = 1, gamma = 0.001, degree = 2
+training accuracy = 0.5426166666666667, test accuracy = 0.5315, fit time = 9.206063834019005
+
+C = 1, gamma = 0.001, degree = 3
+training accuracy = 0.39141666666666663, test accuracy = 0.38560000000000005, fit time = 9.103655403945595
+
+C = 1, gamma = 0.001, degree = 4
+training accuracy = 0.40441666666666665, test accuracy = 0.398, fit time = 9.365901906043291
+
+C = 1, gamma = 0.001, degree = 5
+training accuracy = 0.35773333333333335, test accuracy = 0.35229999999999995, fit time = 9.37490142090246
+
+C = 1, gamma = 0.01, degree = 1
+training accuracy = 0.6637833333333334, test accuracy = 0.6504, fit time = 4.706723316106945
+
+C = 1, gamma = 0.01, degree = 2
+training accuracy = 0.6221333333333333, test accuracy = 0.6117, fit time = 7.501855182927102
+
+C = 1, gamma = 0.01, degree = 3
+training accuracy = 0.4416833333333333, test accuracy = 0.4386, fit time = 8.290498202899471
+
+C = 1, gamma = 0.01, degree = 4
+training accuracy = 0.39885000000000004, test accuracy = 0.39359999999999995, fit time = 9.360324796987697
+
+C = 1, gamma = 0.01, degree = 5
+training accuracy = 0.36101666666666665, test accuracy = 0.3548, fit time = 9.392141906078905
+
+C = 1, gamma = 0.1, degree = 1
+training accuracy = 0.74265, test accuracy = 0.7314, fit time = 4.530562866013497
+
+C = 1, gamma = 0.1, degree = 2
+training accuracy = 0.5694, test accuracy = 0.5615, fit time = 5.104959307005629
+
+C = 1, gamma = 0.1, degree = 3
+training accuracy = 0.6138166666666667, test accuracy = 0.6053999999999999, fit time = 3.8555955020710826
+
+C = 1, gamma = 0.1, degree = 4
+training accuracy = 0.50485, test accuracy = 0.49319999999999997, fit time = 4.68967919703573
+
+C = 1, gamma = 0.1, degree = 5
+training accuracy = 0.5018833333333333, test accuracy = 0.49429999999999996, fit time = 3.962122007040307
+
+C = 1, gamma = 1, degree = 1
+training accuracy = 0.5690666666666666, test accuracy = 0.5653, fit time = 3.22596963099204
+
+C = 1, gamma = 1, degree = 2
+training accuracy = 0.3458833333333333, test accuracy = 0.3419, fit time = 3.7558997948653996
+
+C = 1, gamma = 1, degree = 3
+training accuracy = 0.37201666666666666, test accuracy = 0.3667, fit time = 3.0164644471369684
+
+C = 1, gamma = 1, degree = 4
+training accuracy = 0.48205, test accuracy = 0.48129999999999995, fit time = 3.5091721080243587
+
+C = 1, gamma = 1, degree = 5
+training accuracy = 0.45285, test accuracy = 0.4477, fit time = 3.35578335612081
+
+C = 10, gamma = 0.0001, degree = 1
+training accuracy = 0.7315833333333333, test accuracy = 0.7182999999999999, fit time = 6.2424626459833235
+
+C = 10, gamma = 0.0001, degree = 2
+training accuracy = 0.5435166666666666, test accuracy = 0.5304, fit time = 9.085307226981968
+
+C = 10, gamma = 0.0001, degree = 3
+training accuracy = 0.39149999999999996, test accuracy = 0.38560000000000005, fit time = 9.16088196914643
+
+C = 10, gamma = 0.0001, degree = 4
+training accuracy = 0.40441666666666665, test accuracy = 0.398, fit time = 9.411636624019593
+
+C = 10, gamma = 0.0001, degree = 5
+training accuracy = 0.3585666666666667, test accuracy = 0.35340000000000005, fit time = 9.324098377022892
+
+C = 10, gamma = 0.001, degree = 1
+training accuracy = 0.6637833333333334, test accuracy = 0.6504, fit time = 4.710640036035329
+
+C = 10, gamma = 0.001, degree = 2
+training accuracy = 0.4965333333333334, test accuracy = 0.48360000000000003, fit time = 9.119508886011317
+
+C = 10, gamma = 0.001, degree = 3
+training accuracy = 0.39078333333333337, test accuracy = 0.385, fit time = 9.092151882126927
+
+C = 10, gamma = 0.001, degree = 4
+training accuracy = 0.4044, test accuracy = 0.39790000000000003, fit time = 9.352988296886906
+
+C = 10, gamma = 0.001, degree = 5
+training accuracy = 0.35773333333333335, test accuracy = 0.35229999999999995, fit time = 9.341121391160414
+
+C = 10, gamma = 0.01, degree = 1
+training accuracy = 0.74205, test accuracy = 0.731, fit time = 4.499823885969818
+
+C = 10, gamma = 0.01, degree = 2
+training accuracy = 0.4796666666666667, test accuracy = 0.4777, fit time = 6.014676840044558
+
+C = 10, gamma = 0.01, degree = 3
+training accuracy = 0.48278333333333334, test accuracy = 0.47840000000000005, fit time = 6.726657520979643
+
+C = 10, gamma = 0.01, degree = 4
+training accuracy = 0.3797666666666667, test accuracy = 0.37770000000000004, fit time = 8.403081611031666
+
+C = 10, gamma = 0.01, degree = 5
+training accuracy = 0.3411833333333333, test accuracy = 0.33819999999999995, fit time = 9.091426704078913
+
+C = 10, gamma = 0.1, degree = 1
+training accuracy = 0.5692833333333334, test accuracy = 0.5655, fit time = 3.2487157199066132
+
+C = 10, gamma = 0.1, degree = 2
+training accuracy = 0.43720000000000003, test accuracy = 0.43200000000000005, fit time = 4.045708384132013
+
+C = 10, gamma = 0.1, degree = 3
+training accuracy = 0.47519999999999996, test accuracy = 0.4739, fit time = 3.064635671908036
+
+C = 10, gamma = 0.1, degree = 4
+training accuracy = 0.42245, test accuracy = 0.4214, fit time = 3.851975691039115
+
+C = 10, gamma = 0.1, degree = 5
+training accuracy = 0.4654666666666667, test accuracy = 0.46120000000000005, fit time = 3.3627900979481637
+
+C = 10, gamma = 1, degree = 1
+training accuracy = 0.4459666666666666, test accuracy = 0.4436, fit time = 2.386991883860901
+
+C = 10, gamma = 1, degree = 2
+training accuracy = 0.35183333333333333, test accuracy = 0.35029999999999994, fit time = 3.7253652098588645
+
+C = 10, gamma = 1, degree = 3
+training accuracy = 0.37201666666666666, test accuracy = 0.3667, fit time = 3.0058608760591596
+
+C = 10, gamma = 1, degree = 4
+training accuracy = 0.48205, test accuracy = 0.48129999999999995, fit time = 3.5928636530879885
+
+C = 10, gamma = 1, degree = 5
+training accuracy = 0.45285, test accuracy = 0.4477, fit time = 3.221553588984534
+
+Test Best: C = 1, gamma = 0.1, degree = 1, test accuracy: 0.7314, time: 4.530562866013497
+
