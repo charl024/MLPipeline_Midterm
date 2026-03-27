@@ -12,28 +12,29 @@ pca_levels = ["PCA 50", "PCA 100", "PCA 200"]
 
 
 # MNIST: TODO: redo this shit
+# update, updated the times on the tables with info from the overleaf tables
 svc_time_mnist = np.array([
-    [5.05, 15.77, 5.41],
-    [11.39, 35.27, 13.38],
-    [21.86, 62.58, 27.19]
+    [5.85, 7.16, 5.37],
+    [13.20, 16.81, 13.22],
+    [24.73, 32.11, 27.15]
 ])
 
 svc_error_mnist = np.array([
-    [0.4534, 0.1889, 0.3633],
-    [0.3768, 0.1649, 0.3060],
-    [0.2929, 0.1459, 0.2716]
+    [0.2466, 0.0289, 0.0356],
+    [0.1780, 0.0248, 0.0302],
+    [0.1433, 0.0265, 0.0259]
 ])
 
 bag_time_mnist = np.array([
-    [48.77, 128.05, 40.88],
-    [97.26, 276.75, 113.45],
-    [183.10, 484.71, 250.64]
+    [57.71, 65.71, 46.47],
+    [115.08, 138.47, 106.37],
+    [188.11, 232.19, 190.31]
 ])
 
 bag_error_mnist = np.array([
-    [0.1686, 0.0389, 0.0331],
-    [0.1401, 0.0430, 0.0288],
-    [0.0982, 0.0476, 0.0301]
+    [0.1748, 0.0298, 0.0330],
+    [0.1272, 0.0251, 0.0261],
+    [0.0861, 0.0256, 0.0257]
 ])
 
 
@@ -112,18 +113,18 @@ def plot4(title, svc_data, bag_data, ylabel, download=True): #TODO
 
 
 if __name__ == "__main__":
-    # MNIST
-    plot3("MNIST_SVC_Time", svc_time_mnist, "Time (s)")
-    plot3("MNIST_SVC_Error", svc_error_mnist, "Error")
-
-    # Fashion MNIST
-    plot3("Fashion_SVC_Time", svc_time_fashion, "Time (s)")
-    plot3("Fashion_SVC_Error", svc_error_fashion, "Error")
-
-    # MNIST
-    # plot4("MNIST Time Comparison", svc_time_mnist, bag_time_mnist, "Time (s)")
-    # plot4("MNIST Error Comparison", svc_error_mnist, bag_error_mnist, "Error")
+    # # MNIST
+    # plot3("MNIST_SVC_Time", svc_time_mnist, "Time (s)")
+    # plot3("MNIST_SVC_Error", svc_error_mnist, "Error")
 
     # # Fashion MNIST
-    # plot4("Fashion MNIST Time Comparison", svc_time_fashion, bag_time_fashion, "Time (s)")
-    # plot4("Fashion MNIST Error Comparison", svc_error_fashion, bag_error_fashion, "Error")
+    # plot3("Fashion_SVC_Time", svc_time_fashion, "Time (s)")
+    # plot3("Fashion_SVC_Error", svc_error_fashion, "Error")
+
+    # MNIST
+    plot4("MNIST Time Comparison", svc_time_mnist, bag_time_mnist, "Time (s)")
+    plot4("MNIST Error Comparison", svc_error_mnist, bag_error_mnist, "Error")
+
+    # # Fashion MNIST
+    plot4("Fashion MNIST Time Comparison", svc_time_fashion, bag_time_fashion, "Time (s)")
+    plot4("Fashion MNIST Error Comparison", svc_error_fashion, bag_error_fashion, "Error")
