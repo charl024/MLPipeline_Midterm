@@ -11,7 +11,37 @@ kernels = ["Linear", "RBF", "Poly"]
 pca_levels = ["PCA 50", "PCA 100", "PCA 200"]
 
 
-# MNIST: TODO: redo this shit
+# LDA MNIST
+svc_time_mnist_lda = np.array([
+    [5.85, 7.16, 5.37],
+    [13.20, 16.81, 13.22],
+    [24.73, 32.11, 27.15],
+    [5.23 , 8.12 , 5.94]
+])
+
+svc_error_mnist_lda = np.array([
+    [0.2466, 0.0289, 0.0356],
+    [0.1780, 0.0248, 0.0302],
+    [0.1433, 0.0265, 0.0259],
+    [0.1726, 0.0778, 0.1725]
+])
+
+# LDA Fashion
+
+svc_time_fashion_lda = np.array([
+    [5.05, 15.77, 6.52],
+    [11.36, 34.89, 26.89],
+    [21.91, 62.65, 31.69],
+    [4.03, 7.16, 5.94 ]
+])
+
+svc_error_fashion_lda = np.array([
+    [0.4534, 0.1889, 0.3633],
+    [0.3768, 0.1649, 0.2838],
+    [0.2929, 0.1459, 0.2360],
+    [0.2688, 0.2704, 0.1725]
+])
+
 # update, updated the times on the tables with info from the overleaf tables
 svc_time_mnist = np.array([
     [5.85, 7.16, 5.37],
@@ -62,6 +92,29 @@ bag_error_fashion = np.array([
     [0.3331, 0.1521, 0.2736],
     [0.2598, 0.1456, 0.2274]
 ])
+
+def plot3_lda(title, data, ylabel, download=True):
+    reductions = pca_levels + ["LDA"]
+    x = np.arange(len(reductions))
+    width = 0.25
+
+    plt.figure(figsize=(8, 5))
+
+    for i, kernel in enumerate(kernels):
+        plt.bar(x + (i - 1) * width, data[:, i], width, label=kernel)
+
+    plt.xticks(x, reductions)
+    plt.xlabel("Reduction")
+    plt.ylabel(ylabel)
+    plt.title(title)
+    plt.legend()
+
+    plt.tight_layout()
+
+    if download == True:
+        plt.savefig(f"figures/{title.replace(" ", "_") + "LDA"}.jpg")
+
+    plt.show()
 
 def plot3(title, data, ylabel, download=True):
     x = np.arange(len(pca_levels))
@@ -122,9 +175,17 @@ if __name__ == "__main__":
     # plot3("Fashion_SVC_Error", svc_error_fashion, "Error")
 
     # MNIST
-    plot4("MNIST Time Comparison", svc_time_mnist, bag_time_mnist, "Time (s)")
-    plot4("MNIST Error Comparison", svc_error_mnist, bag_error_mnist, "Error")
+    # plot4("MNIST Time Comparison", svc_time_mnist, bag_time_mnist, "Time (s)")
+    # plot4("MNIST Error Comparison", svc_error_mnist, bag_error_mnist, "Error")
 
-    # # Fashion MNIST
-    plot4("Fashion MNIST Time Comparison", svc_time_fashion, bag_time_fashion, "Time (s)")
-    plot4("Fashion MNIST Error Comparison", svc_error_fashion, bag_error_fashion, "Error")
+    # # # Fashion MNIST
+    # plot4("Fashion MNIST Time Comparison", svc_time_fashion, bag_time_fashion, "Time (s)")
+    # plot4("Fashion MNIST Error Comparison", svc_error_fashion, bag_error_fashion, "Error")
+
+    # MNIST
+    plot3_lda("MNIST_SVC_Time", svc_time_mnist_lda, "Time (s)")
+    plot3_lda("MNIST_SVC_Error", svc_error_mnist_lda, "Error")
+
+    # Fashion MNIST
+    plot3_lda("Fashion_SVC_Time", svc_time_fashion_lda, "Time (s)")
+    plot3_lda("Fashion_SVC_Error", svc_error_fashion_lda, "Error")
